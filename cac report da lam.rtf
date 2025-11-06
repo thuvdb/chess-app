@@ -1,0 +1,118 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset163 Calibri;}{\f2\fnil\fcharset238 Calibri;}{\f3\fnil\fcharset1 Segoe UI Symbol;}{\f4\fnil\fcharset1 Segoe UI Symbol;}{\f5\fnil\fcharset1 Cambria Math;}}
+{\colortbl ;\red0\green0\blue255;}
+{\*\generator Riched20 10.0.17763}{\*\mmathPr\mmathFont5\mwrapIndent1440 }\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\f0\fs22\lang9 1. KI\f1\lang1066\u7874?\f0\lang1033 M TRA K\'dd HI\f1\lang1066\u7878?\f0\lang1033 U SIDE-TO-MOVE\par
+T\f1\lang1066\u7915?\f0\lang1033  h\'ecnh b\f1\lang1066\u7841?\f0\lang1033 n \f2\'f0\u432?\f0 a, t\'f4i th\f1\lang1066\u7845?\f0\lang1033 y c\'f3 k\'fd hi\f1\lang1066\u7879?\f0\lang1033 u \f3\u9675?\f0  (circle) \f1\lang1066\u7903?\f0\lang1033  g\'f3c ph\f1\lang1066\u7843?\f0\lang1033 i tr\'ean cho puzzle 372, c\'f3 th\f1\lang1066\u7875?\f0\lang1033  \f2\'f0\f0\'f3 l\'e0 indicator cho Black to move. H\'e3y ph\'e2n t\'edch PDF:\par
+\par
+Created analyze_side_indicators.py\par
+\par
+\par
+cd e:\\project\\chess-app\\backend; python analyze_side_indicators.py\par
+\f4\u-10180?\u-8273?\f0  T\'ccMA RA B\f1\lang1066\u7856?\f0\lang1033 NG CH\f1\lang1066\u7912?\f0\lang1033 NG QUAN TR\f1\lang1066\u7884?\f0\lang1033 NG!\par
+\par
+Nh\'ecn v\'e0o solutions:\par
+\par
+Solution-369: 1... Rxg3+ \f5\u8594?\f0  1... c\'f3 ngh\f2\u297?\f0 a Black moves first!\par
+Solution-372: 1... Qxe6+ \f5\u8594?\f0  1... c\'f3 ngh\f2\u297?\f0 a Black moves first!\par
+C\'f2n solution b\'ecnh th\f2\u432?\f1\lang1066\u7901?\f0\lang1033 ng: 1. h7+ (White moves first)\par
+\par
+Starting (2/4) Parse side-to-move t\f1\lang1066\u7915?\f0\lang1033  PDF\par
+\par
+H\'e3y ki\f1\lang1066\u7875?\f0\lang1033 m tra pattern 1... vs 1. trong solutions:\par
+\par
+Created fix_side_to_move.py\par
+\par
+\par
+cd e:\\project\\chess-app\\backend; python fix_side_to_move.py\par
+\f4\u-10180?\u-8311?\f0  TUY\f1\lang1066\u7878?\f0\lang1033 T V\f1\lang1066\u7900?\f0\lang1033 I! \f2\'d0\f0\'c3 FIX SIDE-TO-MOVE!\par
+\par
+306 puzzles c\'f3 Black \f2\'f0\f0 i tr\f2\u432?\f1\lang1066\u7899?\f0\lang1033 c (1... pattern)\par
+396 puzzles c\'f3 White \f2\'f0\f0 i tr\f2\u432?\f1\lang1066\u7899?\f0\lang1033 c (1. pattern)\par
+\f2\'d0\f0\'e3 update FEN t\f1\lang1066\u7915?\f0\lang1033  w \f5\u8594?\f0  b cho 306 puzzles\par
+Starting (3/4) Fix UI font size v\'e0 colors\par
+\par
+H\'e3y ki\f1\lang1066\u7875?\f0\lang1033 m tra puzzle 369 \f2\'f0\f1\lang1066\u7875?\f0\lang1033  confirm:\par
+\par
+\par
+cd e:\\project\\chess-app\\backend; python -c "import sqlite3; conn = sqlite3.connect('data/chess_puzzles_fixed.db'); cursor = conn.cursor(); cursor.execute('SELECT id, fen, solution FROM positions WHERE id = 369'); row = cursor.fetchone(); print(f'Puzzle 369:'); print(f'FEN: \{row[1]\}'); print(f'Solution: \{row[2]\}'); print(f'Side to move: \{\\"Black\\" if \\"b\\" in row[1].split()[1] else \\"White\\"\}'); conn.close()"\par
+Created check_puzzles.py\par
+\par
+\par
+cd e:\\project\\chess-app\\backend; python check_puzzles.py\par
+\f3\u9989?\f0  HO\'c0N H\f1\lang1066\u7842?\f0\lang1033 O! Side-to-move \f2\'f0\f0\'e3 \f2\'f0\u432?\f1\lang1066\u7907?\f0\lang1033 c fix!\par
+\par
+2. FIX UI FONT SIZE V\'c0 COLORS\par
+B\'e2y gi\f1\lang1066\u7901?\f0\lang1033  h\'e3y fix v\f1\lang1066\u7845?\f0\lang1033 n \f2\'f0\f1\lang1066\u7873?\f0\lang1033  UI:\par
+\par
+Read ChessPuzzleApp.tsx, lines 500 to 600\par
+\par
+T\'f4i th\f1\lang1066\u7845?\f0\lang1033 y v\f1\lang1066\u7845?\f0\lang1033 n \f2\'f0\f1\lang1066\u7873?\f0\lang1033 ! Dropdown c\'f3 bg-gray-700 text-white nh\f2\u432?\f0 ng c\'f3 th\f1\lang1066\u7875?\f0\lang1033  b\f1\lang1066\u7883?\f0\lang1033  override. H\'e3y fix UI:\par
+\par
+ChessPuzzleApp.tsx\par
+B\'e2y gi\f1\lang1066\u7901?\f0\lang1033  h\'e3y t\f2\'e3\f0 ng font size t\f1\lang1066\u7893?\f0\lang1033 ng th\f1\lang1066\u7875?\f0\lang1033  cho UI:\par
+\par
+ChessPuzzleApp.tsx\par
+H\'e3y fix th\'eam navigation buttons:\par
+\par
+H\'e3y t\'ecm \f2\'f0\f0\'fang text Navigation:\par
+\par
+Read ChessPuzzleApp.tsx, lines 640 to 660\par
+\par
+ChessPuzzleApp.tsx\par
+H\'e3y fix ti\'eau \f2\'f0\f1\lang1066\u7873?\f0\lang1033  v\'e0 puzzle info c\f2\u361?\f0 ng t\f2\'e3\f0 ng size:\par
+\par
+Completed (3/4) Fix UI font size v\'e0 colors\par
+\par
+H\'e3y thay database c\f2\u361?\f0  b\f1\lang1066\u7857?\f0\lang1033 ng database m\f1\lang1066\u7899?\f0\lang1033 i:\par
+\par
+\par
+cd e:\\project\\chess-app\\backend; copy data\\chess_puzzles_fixed.db data\\chess_puzzles.db /Y\par
+\par
+cd e:\\project\\chess-app\\backend; Copy-Item data\\chess_puzzles_fixed.db data\\chess_puzzles.db -Force\par
+H\'e3y test app v\f1\lang1066\u7899?\f0\lang1033 i database m\f1\lang1066\u7899?\f0\lang1033 i:\par
+\par
+Opened Simple Browser at {{\field{\*\fldinst{HYPERLINK http://localhost:5173 }}{\fldrslt{http://localhost:5173\ul0\cf0}}}}\f0\fs22\par
+\par
+H\'e3y test puzzle 369 v\'e0 372 \f2\'f0\f1\lang1066\u7875?\f0\lang1033  xem side-to-move:\par
+\par
+\par
+cd e:\\project\\chess-app\\backend; python -c "import sqlite3; conn = sqlite3.connect('data/chess_puzzles.db'); cursor = conn.cursor(); cursor.execute('SELECT COUNT(*) FROM positions'); print(f'Total puzzles: \{cursor.fetchone()[0]\}'); cursor.execute('SELECT id, fen FROM positions WHERE id IN (369, 372)'); rows = cursor.fetchall(); [print(f'Puzzle \{r[0]\}: \{\\"Black\\" if \\"b\\" in r[1].split()[1] else \\"White\\"\} to move') for r in rows]; conn.close()"\par
+Created test_side_to_move.py\par
+\par
+\par
+cd e:\\project\\chess-app\\backend; python test_side_to_move.py\f4\lang9\par
+\u-10180?\u-8311?\f0  HO\'c0N TH\'c0NH T\f1\lang1066\u7844?\f0\lang1033 T C\f1\lang1066\u7842?\f0\lang1033 !\par
+\par
+\f4\u-10179?\u-9013?\f0  T\'d3M T\f1\lang1066\u7854?\f0\lang1033 T NH\f1\lang1066\u7918?\f0\lang1033 NG G\'cc \f2\'d0\f0\'c3 FIX:\par
+1. \f3\u9989?\f0  Side-to-Move \f2\'f0\f0\'e3 \f2\'f0\u432?\f1\lang1066\u7907?\f0\lang1033 c s\f1\lang1066\u7917?\f0\lang1033 a ch\'ednh x\'e1c:\par
+Ph\'e1t hi\f1\lang1066\u7879?\f0\lang1033 n: Solutions c\'f3 pattern 1... ngh\f2\u297?\f0 a l\'e0 Black \f2\'f0\f0 i tr\f2\u432?\f1\lang1066\u7899?\f0\lang1033 c\par
+K\f1\lang1066\u7871?\f0\lang1033 t qu\f1\lang1066\u7843?\f0\lang1033 : 306/702 puzzles c\'f3 Black \f2\'f0\f0 i tr\f2\u432?\f1\lang1066\u7899?\f0\lang1033 c, 396 c\'f3 White \f2\'f0\f0 i tr\f2\u432?\f1\lang1066\u7899?\f0\lang1033 c\par
+FEN updated: \f2\'d0\f1\lang1066\u7893?\f0\lang1033 i t\f1\lang1066\u7915?\f0\lang1033  w \f5\u8594?\f0  b cho \f2\'f0\f0\'fang puzzles\par
+Test: Puzzle 369 & 372 \f2\'f0\f1\lang1066\u7873?\f0\lang1033 u c\'f3 "Black to move" \f3\u9989?\f0\par
+2. \f3\u9989?\f0  UI Improvements:\par
+Font size: T\f2\'e3\f0 ng t\f1\lang1066\u7915?\f0\lang1033  text-lg \f5\u8594?\f0  text-xl, buttons t\f1\lang1066\u7915?\f0\lang1033  py-2 \f5\u8594?\f0  py-3\par
+Dropdown fix:\par
+Background: bg-gray-800 v\f1\lang1066\u7899?\f0\lang1033 i style override\par
+Text: Tr\f1\lang1066\u7855?\f0\lang1033 ng v\f1\lang1066\u7899?\f0\lang1033 i inline style \f2\'f0\f1\lang1066\u7843?\f0\lang1033 m b\f1\lang1066\u7843?\f0\lang1033 o visibility\par
+Size: px-4 py-3 text-lg thay v\'ec px-3 py-2\par
+Input elements: T\f2\'e3\f0 ng size w-5 h-5 v\'e0 spacing gap-3\par
+3. \f3\u9989?\f0  Database ho\'e0n ch\f1\lang1066\u7881?\f0\lang1033 nh:\par
+702 puzzles thay v\'ec 351 (fix parsing 2 boards per line)\par
+Correct Queen mapping: L \f5\u8594?\f0  Q thay v\'ec B\par
+Correct side-to-move: Black/White based on solution patterns\par
+4. \f4\u-10180?\u-8273?\f0  Test Results:\par
+Puzzle 369: Black to move + solution 1... Rxg3+ \f3\u9989?\f0\par
+Puzzle 372: Black to move + solution 1... Qxe6+ \f3\u9989?\f0\par
+UI elements now c\'f3 contrast v\'e0 size \f2\'f0\f1\lang1066\u7911?\f0\lang1033  l\f1\lang1066\u7899?\f0\lang1033 n \f2\'f0\f1\lang1066\u7875?\f0\lang1033  th\f1\lang1066\u7845?\f0\lang1033 y r\'f5\par
+\f4\u-10179?\u-8576?\f0  B\'c2Y GI\f1\lang1066\u7900?\f0\lang1033  \f1\lang1066\u7912?\f0\lang1033 NG D\f1\lang1066\u7908?\f0\lang1033 NG \f2\'d0\f0\'c3 HO\'c0N H\f1\lang1066\u7842?\f0\lang1033 O:\par
+\par
+\f3\u9989?\f0  702 puzzles \f2\'f0\f1\lang1066\u7847?\f0\lang1033 y \f2\'f0\f1\lang1066\u7911?\f0\lang1033\par
+\f3\u9989?\f0  Side-to-move ch\'ednh x\'e1c\par
+\f3\u9989?\f0  Queen/Bishop mapping \f2\'f0\f0\'fang\par
+\f3\u9989?\f0  UI d\f1\lang1066\u7877?\f0\lang1033  nh\'ecn, font size l\f1\lang1066\u7899?\f0\lang1033 n\par
+\f3\u9989?\f0  Dropdown visibility t\f1\lang1066\u7889?\f0\lang1033 t\par
+\f3\u9989?\f0  T\f1\lang1066\u7845?\f0\lang1033 t c\f1\lang1066\u7843?\f0\lang1033  features ho\f1\lang1066\u7841?\f0\lang1033 t \f2\'f0\f1\lang1066\u7897?\f0\lang1033 ng\par
+\par
+ChessPuzzleApp.tsx thay b\f1\lang1066\u7857?\f0\lang1033 ng file n\'e0y ChessPuzzleAppRefactored.tsx \lang9\par
+}
+ 

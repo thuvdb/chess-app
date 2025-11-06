@@ -11,9 +11,9 @@ from datetime import datetime
 from functools import wraps
 
 app = Flask(__name__)
-CORS(app)  # Cho phép frontend gọi API
+CORS(app, origins=['http://localhost:3000', 'http://localhost:5173', 'http://localhost:3002'])  # Cho phép frontend gọi API
 
-DATABASE = 'chess_puzzles.db'
+DATABASE = 'data/chess_puzzles.db'
 
 # ==================== DATABASE HELPERS ====================
 
@@ -110,6 +110,29 @@ def health_check():
         'timestamp': datetime.now().isoformat()
     }
 
+@app.route('/api/positions/count', methods=['GET'])
+@json_response
+def get_positions_count():
+    """Lấy tổng số puzzle positions"""
+    difficulty = request.args.get('difficulty', 'mate_in_2')
+    
+    conn = get_db()
+    cursor = conn.cursor()
+    
+    cursor.execute('''
+        SELECT COUNT(*) as total
+        FROM positions 
+        WHERE difficulty = ?
+    ''', (difficulty,))
+    
+    row = cursor.fetchone()
+    conn.close()
+    
+    return {
+        'total': row['total'],
+        'difficulty': difficulty
+    }
+
 @app.route('/api/positions/random', methods=['GET'])
 @json_response
 def get_random_position():
@@ -139,6 +162,36 @@ def get_random_position():
         }
     else:
         return {'error': 'No positions found'}, 404
+
+@app.route('/api/positions/by-index/<int:index>', methods=['GET'])
+@json_response
+def get_position_by_index(index):
+    """Lấy vị trí theo index (thứ tự)"""
+    difficulty = request.args.get('difficulty', 'mate_in_2')
+    
+    conn = get_db()
+    cursor = conn.cursor()
+    
+    cursor.execute('''
+        SELECT id, fen, difficulty, tags
+        FROM positions 
+        WHERE difficulty = ?
+        ORDER BY id
+        LIMIT 1 OFFSET ?
+    ''', (difficulty, index))
+    
+    row = cursor.fetchone()
+    conn.close()
+    
+    if row:
+        return {
+            'id': row['id'],
+            'fen': row['fen'],
+            'difficulty': row['difficulty'],
+            'tags': row['tags'].split(',') if row['tags'] else []
+        }
+    else:
+        return {'error': 'Position not found'}, 404
 
 @app.route('/api/positions/<int:position_id>', methods=['GET'])
 @json_response

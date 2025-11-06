@@ -1,0 +1,4214 @@
+[
+  {
+    "id": 1,
+    "fen": "3n2k1/6p1/2b1p1BP/pp2P1b1/2pp3P/2P4K/2P5/5R2 w KQkq - 0 1",
+    "solution": "1. h7+ Kh8 2. Rf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 2,
+    "fen": "2b5/5p2/3B1p2/k3pP2/p3B3/1P2b3/P1P3PP/1KN3b1 w KQkq - 0 1",
+    "solution": "1. b4+ Kb5 2. Bd3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 3,
+    "fen": "2r2k1r/3Q1pp1/p3b2p/5PPn/7P/pq6/N7/K1BRR3 w KQkq - 0 1",
+    "solution": "1. Qxc8+ Bxc8 2. Rd8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 7,
+    "fen": "4rk2/2b2pbB/pp6/7Q/3p4/1Pn5/PB4PP/5R1K w KQkq - 0 1",
+    "solution": "1. Ba3+ Re7 2. Qxf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 8,
+    "fen": "k6r/1p3p2/p4bp1/3R3p/1P2Q1nP/R5P1/P5B1/6K1 w KQkq - 0 1",
+    "solution": "1. Rd8+ Rxd8 2. Qxb7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 9,
+    "fen": "r6k/1Q4pp/1n3p2/1P6/p7/4R3/3P1PPP/1q3BK1 w KQkq - 0 1",
+    "solution": "1. Qxa8+ Nxa8 2. Re8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 13,
+    "fen": "8/1Q6/8/1pp1kPKP/2pb4/6P1/1b6/8 w KQkq - 0 1",
+    "solution": "1. Qe7+ Kd5 2. Qe6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 14,
+    "fen": "6k1/1b2b3/1b1p2PB/1ppPr3/4p3/1P4P1/6BP/R4R1K w KQkq - 0 1",
+    "solution": "1. Rf8+ Qxf8 2. Qh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 15,
+    "fen": "2r3k1/5pp1/3Bb1P1/7p/pp2Pp1P/1Pb2P2/P1PRB3/1K6 w KQkq - 0 1",
+    "solution": "1. Qd8+ Rxd8 2. Rxd8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 19,
+    "fen": "4R3/5p1k/5PN1/1p4P1/4PK2/8/8/b7 w KQkq - 0 1",
+    "solution": "1. Rh8+ Kxg6 2. Rh6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 20,
+    "fen": "2r2rk1/5p1n/1p1p3R/p1bP2p1/4P3/PqB3BP/4B1P1/3R3K w KQkq - 0 1",
+    "solution": "1. Qxg5+ Nxg5 2. Rh8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 21,
+    "fen": "4k3/3q4/2RPpB2/1p1r1p1P/8/p2P4/5PP1/6K1 w KQkq - 0 1",
+    "solution": "1. Rc8+ Qxc8 2. Qe7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 25,
+    "fen": "6k1/p4p2/1b1p1PrR/4nQp1/2P1P3/P7/1r4PP/1B3R1K w KQkq - 0 1",
+    "solution": "1. Qc8+ Qd8 2. Qxd8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 26,
+    "fen": "4kr2/r2nBpBN/1b1Pp3/p1p5/8/3p4/PP3PPP/R5K1 w KQkq - 0 1",
+    "solution": "1. Qxf8+ Nxf8 2. Nf6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 27,
+    "fen": "r4r1k/4b1pp/pn1p1p2/4pP1Q/PpB1P3/1P4R1/2P3PP/R5K1 w KQkq - 0 1",
+    "solution": "1. Qxh7+ Kxh7 2. Rh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 31,
+    "fen": "2r1rR2/1p2b1k1/p5p1/P5Np/2Q3P1/8/1PP4P/4bB1K w KQkq - 0 1",
+    "solution": "1. Qg8+ Kh6 2. Nf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 32,
+    "fen": "5k2/2p1pq2/1r1p2R1/1p1P1NBp/r6P/5P2/PP4P1/1K6 w KQkq - 0 1",
+    "solution": "1. Rg8+ Qxg8 2. Qxe7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 33,
+    "fen": "6B1/3k4/3P4/5K2/5B2/6r1/2R5/5r2 w KQkq - 0 1",
+    "solution": "1. Be6+ Kd8 2. Rc8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 37,
+    "fen": "4rb2/1p4pp/1k3p2/3p4/1n1P4/1P4B1/2R2PPP/R5K1 w KQkq - 0 1",
+    "solution": "1. Bc7+ Kb5 2. Ra5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 38,
+    "fen": "rn2kb1B/p3ppp1/2p5/4b1p1/PpbR4/2p1BP2/1P4PP/2K2B1R w KQkq - 0 1",
+    "solution": "1. Qxf8+ Kxf8 2. Rd8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 39,
+    "fen": "R4bk1/8/6KP/8/5P2/4n3/8/8 w KQkq - 0 1",
+    "solution": "1. h7+ Kh8 2. Rxf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 43,
+    "fen": "8/2R5/5ppk/3p3p/3B4/7P/6P1/1r2b1NK w KQkq - 0 1",
+    "solution": "1. Qf4+ g5 2. Qxf6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 44,
+    "fen": "4rbk1/6pp/8/3q4/1p1Bp1Q1/1P1n2P1/P5NP/5R1K w KQkq - 0 1",
+    "solution": "1. Rxf8+ Rxf8 2. Qxg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 45,
+    "fen": "5n2/1p3r2/p1pR3p/2P2Bpk/4Pp2/1PB2PbP/P3K3/8 w KQkq - 0 1",
+    "solution": "1. Bg4+ Kh4 2. Rxh6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 49,
+    "fen": "4r1k1/b5b1/1rp1pn2/p1Np1p2/P2P1P2/1Pn1PB2/7B/5KRR w KQkq - 0 1",
+    "solution": "1. Qh8+ Kf7 2. Rxg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 50,
+    "fen": "5R2/3r2k1/2r2p2/1p3P1R/1P2p3/3P2PK/2P5/8 w KQkq - 0 1",
+    "solution": "1. Rfh8 exd3 2. R5h7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 51,
+    "fen": "r4k2/3R1B2/1pb5/2p1b1p1/1n2p3/7Q/PP3PPP/5RK1 w KQkq - 0 1",
+    "solution": "1. Qh6+ Qg7 2. Qd6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 55,
+    "fen": "1k5r/1p3q2/p1b2p2/B3p1p1/5nB1/1P2BP1P/P1P5/1K1R4 w KQkq - 0 1",
+    "solution": "1. Rd8+ Rxd8 2. Qxd8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 56,
+    "fen": "r5rk/2pq2pp/1p3p2/p1p1pP2/P2nP3/1PBPBPP1/2P2K2/4R2R w KQkq - 0 1",
+    "solution": "1. Rxh7+ Kxh7 2. Rh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 57,
+    "fen": "2r2k2/6R1/7R/p2p4/2bP1N2/p7/3K4/1q6 w KQkq - 0 1",
+    "solution": "1. Ne6+ Ke8 2. Rh8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 61,
+    "fen": "8/pq3p2/5B2/6pk/P2P4/4P3/1r4P1/5RK1 w KQkq - 0 1",
+    "solution": "1. Qh8+ Kg4 2. Qh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 62,
+    "fen": "r1q1rb1k/pbpn2p1/1p2Qn1N/3p2B1/3P4/2NB4/PPP2PPP/R3R1K1 w KQkq - 0 1",
+    "solution": "1. Qg8+ Nxg8 2. Nf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 63,
+    "fen": "3r3r/1p2R1pp/p4k2/2n2N2/5BP1/2N5/PP3P1P/6K1 w KQkq - 0 1",
+    "solution": "1. Be5+ Kg6 2. Rxg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 67,
+    "fen": "5R2/pp2r1kp/1bn3p1/6N1/P6B/1P5P/6P1/7K w KQkq - 0 1",
+    "solution": "1. Qxh7+ Kxf8 2. Qh8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 68,
+    "fen": "4k3/5R2/2pKB3/rb6/6P1/7P/8/8 w KQkq - 0 1",
+    "solution": "1. Rg7 Ra3 2. Rg8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 69,
+    "fen": "r1b1kb1r/p1bn1pp1/2N1pn1p/2p5/1P6/3B4/P1P1QPPP/R1B1K1NR w KQkq - 0 1",
+    "solution": "1. Qxe6+ fxe6 2. Bg6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 73,
+    "fen": "r2r1k2/pp1b1ppQ/q4b1p/3pN3/2nP4/P3R3/1P3PPP/1B1R2K1 w KQkq - 0 1",
+    "solution": "1. Nxd7+ Rxd7 2. Qh8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 74,
+    "fen": "8/2p3r1/k1P5/pp1P1p2/2q2p1p/2P2P1P/R5PK/6B1 w KQkq - 0 1",
+    "solution": "1. Rxa5+ Kxa5 2. Qa7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 75,
+    "fen": "8/1R6/7k/1p2pB2/4P3/1rN3K1/8/3b4 w KQkq - 0 1",
+    "solution": "1. Kh4 Rxc3 2. Rh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 79,
+    "fen": "r4r2/1p5p/3b1Bp1/n7/5p1P/3k1B2/5PP1/1RR3K1 w KQkq - 0 1",
+    "solution": "1. Rc3+ Kd2 2. Rd1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 80,
+    "fen": "5rk1/2N1Bppp/8/3Pn3/3b3B/8/2q2PPP/1R4K1 w KQkq - 0 1",
+    "solution": "1. Qxf8+ Kxf8 2. Rb8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 81,
+    "fen": "4rr1k/4p2p/ppb2p1N/2p2P2/P3P1R1/6R1/1PP3P1/6K1 w KQkq - 0 1",
+    "solution": "1. Rg8+ Rxg8 2. Nf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 85,
+    "fen": "q1b5/4B3/p2pp1p1/Nbk1n2p/4P3/3B4/PbPB2PP/7K w KQkq - 0 1",
+    "solution": "1. Qc7+ Kd4 2. Nb3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 86,
+    "fen": "r5k1/pr2R3/bpp3B1/8/3P1N2/7P/PP3PP1/6K1 w KQkq - 0 1",
+    "solution": "1. Bh7+ Kf8 2. Ng6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 87,
+    "fen": "6rk/6pp/5p2/p7/P2B1N2/4P1P1/2r2n1P/6K1 w KQkq - 0 1",
+    "solution": "1. Ng6+ hxg6 2. Qh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 91,
+    "fen": "r2br1k1/p1pn2p1/1p2p1Q1/4P3/2P5/2P5/P4PP1/R1B1K2R w KQkq - 0 1",
+    "solution": "1. Rh7 Re7 2. Qh5 g5 3. Rh8+ Kg7 4. Qh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 92,
+    "fen": "5rk1/pp2bppp/4p3/b7/1n2N3/3QP3/PPB2PPP/5RK1 w KQkq - 0 1",
+    "solution": "1. Nf6+ gxf6 2. Qxh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 93,
+    "fen": "6k1/5p1p/4pPp1/6B1/8/8/8/6K1 w KQkq - 0 1",
+    "solution": "1. Qh6 e5 2. Qg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 97,
+    "fen": "2rbrbk1/p4p2/1pn3P1/3p1QP1/3P4/P3B3/1P3PP1/1K1R3R w KQkq - 0 1",
+    "solution": "1. Qxf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 98,
+    "fen": "5rk1/pbp2ppp/6r1/2P5/2PbB3/7q/P2PQPPP/1RB2RK1 w KQkq - 0 1",
+    "solution": "1... Rxg2+ 2. Bxg2 Qxg2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 99,
+    "fen": "2k5/ppp1r2p/8/4n3/8/5P1b/2Q1PP1P/6KR w KQkq - 0 1",
+    "solution": "1... Rg7+ 2. Qg6 Rxg6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 103,
+    "fen": "3RQ3/p4pk1/1p4p1/2b3Pp/6bK/P1r5/6PP/3n3R w KQkq - 0 1",
+    "solution": "1... Rh3+ 2. gxh3 Qf2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 104,
+    "fen": "2r2bk1/p3p1bR/3p4/1b1P2B1/1p4P1/1N2BP2/Pr6/K6R w KQkq - 0 1",
+    "solution": "1... Rb1+ 2. Kxb1 Bd3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 105,
+    "fen": "8/6p1/6k1/R2pp1p1/2rPn1P1/1p1KP3/1Pr1R3/3N4 w KQkq - 0 1",
+    "solution": "1... Nc5+ 2. dxc5 e4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 109,
+    "fen": "8/1p1P2bk/p5pp/3Q1pb1/P3r3/5pB1/1P5K/R4R2 w KQkq - 0 1",
+    "solution": "1... Rh4+ 2. Bxh4 Qg2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 110,
+    "fen": "2krr3/ppb2Qpp/8/1PPN4/5pnP/B2q1Nn1/P5P1/R5KR w KQkq - 0 1",
+    "solution": "1... Qf1+ 2. Rxf1 Ne2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 111,
+    "fen": "6k1/p4pp1/1p5p/5N1q/8/BP3n1P/P1r3P1/3R3K w KQkq - 0 1",
+    "solution": "1... Qxh3+ 2. gxh3 Rh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 115,
+    "fen": "r4rk1/ppb2ppp/2p2B2/2b1n3/4P1N1/P1N4P/BP1B1PP1/5RKR w KQkq - 0 1",
+    "solution": "1... Nf3+ 2. gxf3 Qg3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 116,
+    "fen": "5k2/6pp/1b5r/p2RPp1r/2B1bP2/2P4P/2P3PK/2B4R w KQkq - 0 1",
+    "solution": "1... Rxh3+ 2. gxh3 Qf2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 117,
+    "fen": "8/3r1pk1/1B5p/1pp3p1/2Bn1Pb1/2P5/PPR3PP/1NKR4 w KQkq - 0 1",
+    "solution": "1... Nb3+ 2. axb3 Rxd1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 121,
+    "fen": "2k1r3/2pp1PR1/1p6/8/1p1n4/3P4/2P2B2/1qBK4 w KQkq - 0 1",
+    "solution": "1... Re1+ 2. Qxe1 Qxc2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 122,
+    "fen": "4k3/p4p1p/3p1p2/2p1r3/2P1r1P1/P7/1P1BnPP1/3R1R1K w KQkq - 0 1",
+    "solution": "1... Rh5+ 2. gxh5 Rh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 123,
+    "fen": "r2bk2r/ppp5/3p1n2/2b1p3/2B1P1b1/3P2pP/PPPBnPP1/RN3R1K w KQkq - 0 1",
+    "solution": "1... Rxh3+ 2. gxh3 Bf3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 127,
+    "fen": "r3k1r1/pp1n1p2/2pbp2p/1P1p4/3P1b2/P1N2P2/2P1B1NP/R2Q1RK1 w KQkq - 0 1",
+    "solution": "1... Rxg2+ 2. Kxg2 Qxh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 128,
+    "fen": "8/pkb5/3p1P2/2p5/1p6/3P3P/2P1rP2/bQKR3R w KQkq - 0 1",
+    "solution": "1... Rxc2+ 2. Kxc2 Qc3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 129,
+    "fen": "r1b2rk1/1p6/5bp1/3pBn2/p7/P2B2P1/1PQ1NPK1/R6R w KQkq - 0 1",
+    "solution": "1... Ne3+ 2. fxe3 Qf2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 133,
+    "fen": "Q1b1r1k1/4b1p1/2p4p/3n1p1B/1rn5/2NP4/PPP2bPP/RNBK3R w KQkq - 0 1",
+    "solution": "1... Qe1+ 2. Rxe1 Rxe1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 134,
+    "fen": "5r1k/R5pp/8/3P1q2/2P5/BPB2BP1/P4nK1/4r3 w KQkq - 0 1",
+    "solution": "1... Qh3+ 2. Kxf2 Qf1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 135,
+    "fen": "r1b2rk1/pp3p1p/3p2p1/2pPp3/2PbPPnb/3B3P/PPQ3P1/R1BN1R1K w KQkq - 0 1",
+    "solution": "1... Qg3 2. hxg4 Qh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 139,
+    "fen": "2k5/R1p3bp/1b6/3ppr2/Qp6/1p1PP3/1P1KP2P/2R5 w KQkq - 0 1",
+    "solution": "1... Qxe3+ 2. Kxe3 Bh6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 140,
+    "fen": "3b4/1b4k1/1p6/1P3ppQ/3p2p1/1q4P1/3P1N1K/7R w KQkq - 0 1",
+    "solution": "1... Qxg3+ 2. Kxg3 Bc7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 141,
+    "fen": "4r1k1/b4p2/8/8/4n1P1/P6p/Q1P5/R3BKR1 w KQkq - 0 1",
+    "solution": "1... Qf2+ 2. Bxf2 Nd2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 145,
+    "fen": "7k/2R5/3r3b/1Q1Pp1r1/4N3/5P2/7P/6RK w KQkq - 0 1",
+    "solution": "1... Qxh2+ 2. Kxh2 Rh6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 146,
+    "fen": "r3k2r/pp2b2p/3pQ3/8/4n3/3N4/PBPPPbnP/1RNK1B1R w KQkq - 0 1",
+    "solution": "1... Qe1+ 2. Nxe1 Nf2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 147,
+    "fen": "7B/4kbB1/5p2/4pK2/4P3/2p2P2/8/6b1 w KQkq - 0 1",
+    "solution": "1... Qg6+ 2. Qxg6 Be6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 151,
+    "fen": "5rk1/R6p/8/3R1q2/2P4K/BPB2BP1/P4n2/4r3 w KQkq - 0 1",
+    "solution": "1... Rh1+ 2. Bxh1 Qg4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 152,
+    "fen": "3rkb2/ppp1b2p/6N1/7Q/4n3/8/PPn2PPP/RNBB1K1R w KQkq - 0 1",
+    "solution": "1... Ng3+ 2. hxg3 Qe1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 153,
+    "fen": "1R6/1R6/7p/1p3npk/5p2/B1r4P/5PPK/4r3 w KQkq - 0 1",
+    "solution": "1... Ng3 2. fxg3 fxg3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 157,
+    "fen": "Q7/2pk1p1p/pb1pb3/2p5/4n3/3K3P/PP3bP1/RN5R w KQkq - 0 1",
+    "solution": "1... c4+ 2. Kxe4 f5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 158,
+    "fen": "6k1/B7/5Pr1/4N3/3n4/4R1Pq/5N2/6K1 w KQkq - 0 1",
+    "solution": "1... Ne2+ 2. Rxe2 Rxg3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 159,
+    "fen": "8/2r3p1/1k3p2/1p1PpP2/pK2P3/P1R4r/1PR5/8 w KQkq - 0 1",
+    "solution": "1... Rc4+ 2. Rxc4 Rb3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 163,
+    "fen": "2k4r/pp3ppr/2p1pn2/8/3P1bP1/2PQ2N1/PP2BPP1/R4RK1 w KQkq - 0 1",
+    "solution": "1... Rh1+ 2. Nxh1 Bh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 164,
+    "fen": "8/7k/4b1p1/4b3/6PP/6BK/6B1/6b1 w KQkq - 0 1",
+    "solution": "1... Bxg4+ 2. Qxg4 Qh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 165,
+    "fen": "8/Bp4pk/p5b1/5p1p/3B2nP/1P4PK/P1P1r1B1/3r4 w KQkq - 0 1",
+    "solution": "1... Rh1+ 2. Bxh1 Rh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 169,
+    "fen": "2b3rk/5pr1/1p1p1n2/p1pP1q1p/P1P2P1n/1QP3PP/4RN1K/2B3RB w KQkq - 0 1",
+    "solution": "1... Qxh3+ 2. Nxh3 Ng4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 170,
+    "fen": "7r/6k1/4bpp1/p2p1q1p/N2b1P2/1Br4P/2P1R1PK/4BR2 w KQkq - 0 1",
+    "solution": "1... Rxh3+ 2. gxh3 Qxh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 171,
+    "fen": "r3kb1r/p2p1ppp/1p2p3/7q/2P1N3/1P5n/PB2nPPN/R2Q2RK w KQkq - 0 1",
+    "solution": "1... Nxf2+ 2. Nxf2 Ng3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 175,
+    "fen": "2kr3r/ppbn1pp1/2p1p1p1/2b5/8/5NN1/PPQ2nP1/R3BRK1 w KQkq - 0 1",
+    "solution": "1... Rh1+ 2. Nxh1 Nh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 176,
+    "fen": "r2b1rk1/1pp5/3p2nP/p1nPbp2/2P1p2P/1P2P1P1/P2BQKB1/2N2RR1 w KQkq - 0 1",
+    "solution": "1... Bxg3+ 2. Kxg3 Qxh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 177,
+    "fen": "3rk2r/ppp2ppp/2b5/2b1P1B1/8/2P5/PP3RPP/RNBq2NK w KQkq - 0 1",
+    "solution": "1... Qxg1+ 2. Kxg1 Rd1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 181,
+    "fen": "4r2k/ppp3pp/8/1PPb1p2/3P1P1b/P1B2p1P/7R/R4KBq w KQkq - 0 1",
+    "solution": "1... Qg2+ 2. Rxg2 fxg2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 182,
+    "fen": "6rk/1p5p/p4R1K/2B2pB1/2P2P1P/1P6/P5q1/7r w KQkq - 0 1",
+    "solution": "1... Qxg5+ 2. fxg5 Rxh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 183,
+    "fen": "1k5r/1Pp3p1/5pqp/7R/5BPK/3r3P/1B6/R7 w KQkq - 0 1",
+    "solution": "1... Qg5+ 2. Bxg5 hxg5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 187,
+    "fen": "6k1/nRB2pp1/2p4p/8/8/p7/PPPr3P/1K1n4 w KQkq - 0 1",
+    "solution": "1... Nc3+ 2. bxc3 Rd1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 188,
+    "fen": "k5r1/8/1pqB3p/p2nPQ2/3P3P/7K/3P2N1/8 w KQkq - 0 1",
+    "solution": "1... Nf4+ 2. Nxf4 Qh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 189,
+    "fen": "3B4/2p5/1p1p4/p1n1p2n/P6N/BPP1PP2/5K1k/5b2 w KQkq - 0 1",
+    "solution": "1... Nd3+ 2. Kxf1 Ng3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 193,
+    "fen": "7r/1pp2pk1/3p1bp1/3P1P2/1PP3K1/2P2RP1/2Q3Bb/8 w KQkq - 0 1",
+    "solution": "1... Rh4+ 2. gxh4 Qxh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 194,
+    "fen": "5k2/pp2R3/8/5Np1/5r2/2P2qPK/PPQ4P/R7 w KQkq - 0 1",
+    "solution": "1... Rh4+ 2. Nxh4 g4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 195,
+    "fen": "r6b/ppp1nkb1/3pN3/1P1Pp3/P2P1pn1/B4QP1/4P1Br/1R3RK1 w KQkq - 0 1",
+    "solution": "1... Rh1+ 2. Bxh1 Qh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 199,
+    "fen": "r1bb2k1/ppp2r1p/2np1pNB/2bNpp2/2B1P3/3P4/PPP2PPP/R3K2R w KQkq - 0 1",
+    "solution": "1. Nxf6+ Qxf6 2. Qf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 200,
+    "fen": "r2br1k1/4ppb1/p2p2Q1/1p1N1b2/4P3/1B3P2/PPP5/2KR3R w KQkq - 0 1",
+    "solution": "1. Nf6+ exf6 2. Qxf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 201,
+    "fen": "3nq2k/1prb2rp/p2P1Bp1/4N3/Pn6/1B5R/1P3PPP/3R2K1 w KQkq - 0 1",
+    "solution": "1. Rxh7+ Kxh7 2. Qh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 205,
+    "fen": "7r/4Ppn1/5p1r/2b4k/5P1N/8/2B3PK/8 w KQkq - 0 1",
+    "solution": "1. Bd1+ Kxh4 2. g3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 206,
+    "fen": "1b3R2/4k3/nP1NP3/1ppPp3/p7/Prn5/8/K7 w KQkq - 0 1",
+    "solution": "1. Rf7+ Kxd6 2. Rd7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 207,
+    "fen": "7K/4r3/5N1R/6k1/4PN2/4p1r1/8/8 w KQkq - 0 1",
+    "solution": "1. Rh5+ Kxf4 2. Rf5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 211,
+    "fen": "r4rk1/1ppn1p2/1b1p1bb1/pP1PpN2/P1B5/B5PQ/5PK1/7R w KQkq - 0 1",
+    "solution": "1. Ne7+ Qxe7 2. Qh8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 212,
+    "fen": "r4rk1/7R/pp3pp1/4pq2/3n3B/P7/1PP2PP1/2K4R w KQkq - 0 1",
+    "solution": "1. Rg7+ Kxg7 2. Qh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 213,
+    "fen": "r5r1/k4p1p/pR3p2/Pbb1b1n1/2Q5/2P3P1/5P1P/3R2K1 w KQkq - 0 1",
+    "solution": "1. Rd7+ Bxd7 2. Qxa6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 217,
+    "fen": "rn1bkb1r/1p3bpp/p2P1nb1/3QN3/2B5/2N5/PP3PPP/R1B1K2R w KQkq - 0 1",
+    "solution": "1. Qxf7+ Bxf7 2. Bxf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 218,
+    "fen": "rn1bkb1r/ppp1n1pp/8/3bN3/2B5/5Q2/PPP2PPP/RNB1K2R w KQkq - 0 1",
+    "solution": "1. Qf7+ Bxf7 2. Bxf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 219,
+    "fen": "rn1bkb2/ppp1p2r/8/4NpBp/2BPp3/8/PP4PP/R2Q2K1 w KQkq - 0 1",
+    "solution": "1. Qxh5+ Rxh5 2. Bf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 223,
+    "fen": "r1b2k1r/ppppb3/5N1p/4P2Q/4PP2/1B6/PP5P/n2K2R1 w KQkq - 0 1",
+    "solution": "1. Qxh6+ Rxh6 2. Rg8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 224,
+    "fen": "2krr3/pp1b3p/2p1pbp1/3p4/3P1B1b/3Q2N1/P1P3PP/1R3R1K w KQkq - 0 1",
+    "solution": "1. Qa6 bxa6 2. Rb8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 225,
+    "fen": "4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w KQkq - 0 1",
+    "solution": "1. Qb8+ Nxb8 2. Rd8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 229,
+    "fen": "2b2r2/2p1R3/q1Nr1n1k/pPRp1Bp1/3B2P1/7P/1P3P2/6K1 w KQkq - 0 1",
+    "solution": "1. Qxf6+ Rfxf6 2. Rh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 230,
+    "fen": "8/8/8/pb2b3/2nR4/Pk6/8/KB2B3 w KQkq - 0 1",
+    "solution": "1. Qc3+ Kxc3 2. Rd3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 231,
+    "fen": "4k2r/pPpn1ppp/1b6/3R2B1/8/8/PP3PPP/6K1 w KQkq - 0 1",
+    "solution": "1. b8=R+ Nxb8 2. Rd8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 235,
+    "fen": "2kr1br1/p2b1n1p/3p2q1/2pP1N2/2P1NBP1/P3BP2/1R6/2K5 w KQkq - 0 1",
+    "solution": "1. Qxc5+ dxc5 2. Rb8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 236,
+    "fen": "3b3k/4rQ1p/2pb1N1P/p3N3/P7/3r2P1/1P3P2/6K1 w KQkq - 0 1",
+    "solution": "1. Qxh7+ Rxh7 2. Ng6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 237,
+    "fen": "5r1k/3n2pp/p1q4N/1pb3N1/5B1P/5PPK/P7/3R4 w KQkq - 0 1",
+    "solution": "1. Qxf8+ Nxf8 2. Ngf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 241,
+    "fen": "1r3b1r/pp1R1Qpk/1bn2p2/3P1N2/8/5N2/P4PPP/4R1K1 w KQkq - 0 1",
+    "solution": "1. Qxg7+ Bxg7 2. Rxg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 242,
+    "fen": "r1b2brk/p5b1/1pp2N1p/3pPP2/8/8/PPP4P/2B3RK w KQkq - 0 1",
+    "solution": "1. Qxh6+ Qxh6 2. Rxg8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 243,
+    "fen": "6rk/5prp/4qN1B/8/8/6R1/5PPP/6K1 w KQkq - 0 1",
+    "solution": "1. Qxh7+ Rxh7 2. Rxg8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 247,
+    "fen": "1rb1r1k1/2b1pp1p/p2p2pB/2pP4/1pP2B2/1P1n4/P4PPP/2R1R1K1 w KQkq - 0 1",
+    "solution": "1. Qf6 Nxc1 2. Qg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 248,
+    "fen": "1B6/3p4/2p2Kp1/P1k3p1/P1p2np1/2P1N1N1/2bP4/8 w KQkq - 0 1",
+    "solution": "1. d4+ cxd3 2. Ne4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 249,
+    "fen": "r3k2r/pq1b2pp/2Np4/3N2b1/1pQ1P3/8/PPP4P/1K1R1R2 w KQkq - 0 1",
+    "solution": "1. Nc7+ Qxc7 2. Qf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 253,
+    "fen": "5N2/B4n2/KR6/3krNRp/5p2/3P4/8/6nq w KQkq - 0 1",
+    "solution": "1. Rd6+ Nxd6 2. Ne7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 254,
+    "fen": "5B2/p3r3/NR1p4/3k1B2/bP1p1P2/3K4/8/4r3 w KQkq - 0 1",
+    "solution": "1. Nc7+ Rxc7 2. Rxd6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 255,
+    "fen": "5R1R/pp6/2bBp1p1/1n1n2kP/6p1/P1rP4/2q1P1Q1/6K1 w KQkq - 0 1",
+    "solution": "1. Qxd5+ exd5 2. Be7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 259,
+    "fen": "4B2r/8/8/3K2p1/5kP1/R5pP/5r2/4N3 w KQkq - 0 1",
+    "solution": "1. Rf3+ Rxf3 2. Ng2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 260,
+    "fen": "k2r4/1pK5/1B2R3/3q4/8/8/8/8 w KQkq - 0 1",
+    "solution": "1. Qa6+ bxa6 2. Rxa6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 261,
+    "fen": "k7/2R5/K2n4/2bq4/Q7/8/8/8 w KQkq - 0 1",
+    "solution": "1. Qe8+ Nxe8 2. Rc8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 265,
+    "fen": "8/n7/4nK1B/3p4/4k3/rN3p2/5pb1/3R4 w KQkq - 0 1",
+    "solution": "1. Rd4+ Nxd4 2. Nc5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 266,
+    "fen": "8/2p2p2/1b3p2/1P3bp1/2K1k3/3N1R2/5PP1/8 w KQkq - 0 1",
+    "solution": "1. Re3+ Bxe3 2. f3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 267,
+    "fen": "2k5/1p1rRp2/pBp2np1/P6q/5P2/7P/3B2PK/8 w KQkq - 0 1",
+    "solution": "1. Qxd7+ Nxd7 2. Re8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 271,
+    "fen": "3B2r1/b7/4p1pp/6R1/4B2k/6n1/b2r3p/K2n4 w KQkq - 0 1",
+    "solution": "1. Rh5+ Kxh5 2. Bf3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 272,
+    "fen": "3R3B/2K1p3/1p2k2N/b2pp1p1/7p/3n2b1/b4R2/8 w KQkq - 0 1",
+    "solution": "1. Rf6+ exf6 2. Re8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 273,
+    "fen": "8/8/8/3r3q/R2ppN2/2k2b1p/2P2N2/2K5 w KQkq - 0 1",
+    "solution": "1. Ne2+ Bxe2 2. Nxe4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 277,
+    "fen": "2B5/8/8/4ppp1/3nqk2/2n3RP/4PPP1/6K1 w KQkq - 0 1",
+    "solution": "1. Rg4+ fxg4 2. g3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 278,
+    "fen": "1bkr4/1p2R3/1B6/8/2qp4/5b2/6BP/7K w KQkq - 0 1",
+    "solution": "1. Qxb7+ Bxb7 2. Bxb7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 279,
+    "fen": "k7/p1Kppq1b/1p6/3PP3/1P6/2P1B3/6R1/7r w KQkq - 0 1",
+    "solution": "1. Qxb6 axb6 2. Ra2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 283,
+    "fen": "q1n3N1/1rk3r1/5Bn1/8/B1pN4/2P1p3/6P1/K7 w KQkq - 0 1",
+    "solution": "1. Qd8+ Kxd8 2. Ne6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 284,
+    "fen": "3krb2/2p1p3/2p1B3/2K2p2/3N4/1P1P4/1BP4p/6br w KQkq - 0 1",
+    "solution": "1. Qa1 Qxa1 2. Nxc6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 285,
+    "fen": "r1bb3r/3n1R1p/1p2p1pk/p3P3/2pP2Q1/2P5/PPB3PP/6K1 w KQkq - 0 1",
+    "solution": "1. Rxh7+ Rxh7 2. Qxg6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 289,
+    "fen": "4nbrk/r5p1/pn1p1pP1/2pPpP2/2P1P2P/1P6/2BBK3/6RR w KQkq - 0 1",
+    "solution": "1. Rg5 fxg5 2. hxg5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 290,
+    "fen": "8/2b3n1/7B/2k1ppr1/p5p1/2KR2P1/PR6/5q2 w KQkq - 0 1",
+    "solution": "1. Rb5+ Kxb5 2. Rd5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 291,
+    "fen": "8/6r1/4B3/n1p1p1rb/2p1kbpR/1pR1P3/4NPP1/1K6 w KQkq - 0 1",
+    "solution": "1. Ng3+ Bxg3 2. f3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 295,
+    "fen": "3r4/2kP2pr/p1PN2p1/K5Bp/3N4/6b1/8/3q4 w KQkq - 0 1",
+    "solution": "1. N6b5+ axb5 2. Qxg3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 296,
+    "fen": "3r2k1/pp3pp1/2p1P3/8/1PQ3P1/2B1K3/P1b4b/5B2 w KQkq - 0 1",
+    "solution": "1... Qg3+ 2. Ke2 Bd1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 297,
+    "fen": "4r1k1/pp3p1p/2p2B2/2P2b2/1P1R1p2/P5p1/8/1q1B1K2 w KQkq - 0 1",
+    "solution": "1... Bh3+ 2. Kg1 Re1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 301,
+    "fen": "7k/pp4r1/3K4/1P3r2/2Pp2bp/P2Pn3/3BN2P/1R2R3 w KQkq - 0 1",
+    "solution": "1... Rfg5 2. Nxd4 Rd7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 302,
+    "fen": "5rk1/p4b2/5b1p/3p1N1P/Q4Pp1/3Bb3/Pr4PK/3R1R2 w KQkq - 0 1",
+    "solution": "1... Qh3+ 2. Kg1 Rxg2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 303,
+    "fen": "4r2k/p2R1pbp/2p3p1/b5P1/2QB4/1P6/2P4P/2K5 w KQkq - 0 1",
+    "solution": "1... Re1+ 2. Kb2 Qa1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 307,
+    "fen": "5rk1/6bp/3Bp1p1/5p1b/1PR5/1B2Pq2/3K1P2/4B3 w KQkq - 0 1",
+    "solution": "1... Qe2+ 2. Kc1 Qb2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 308,
+    "fen": "2k1r3/pppq4/1b1p2p1/3P1n1p/P1Q2P2/6P1/1B2R1NP/7K w KQkq - 0 1",
+    "solution": "1... Nxg3+ 2. hxg3 Qh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 309,
+    "fen": "8/b4bkp/N1p2p2/1p2pPp1/4P3/B2B2KP/8/8 w KQkq - 0 1",
+    "solution": "1... Qg1+ 2. Kf3 Bh5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 313,
+    "fen": "5k2/5Pb1/3N4/2B3pn/P1p2n2/7P/1P2r3/1B3RK1 w KQkq - 0 1",
+    "solution": "1... Nxh3+ 2. Kh1 Ng3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 314,
+    "fen": "3b1rk1/5p1p/p2pb1p1/4n3/P2RP3/1p4NP/1P1B1PPK/RBr5 w KQkq - 0 1",
+    "solution": "1... Ng4+ 2. hxg4 Qh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 315,
+    "fen": "8/8/4r3/6R1/3b2P1/3k1KP1/8/8 w KQkq - 0 1",
+    "solution": "1... Re2 2. Ra5 Rf2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 319,
+    "fen": "3r2k1/p6p/1p2p3/5nPR/P2PKP2/1P4r1/4R3/B7 w KQkq - 0 1",
+    "solution": "1... Rd5 2. Rh1 Nd6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 320,
+    "fen": "kr3b2/p7/r1p2p2/4PN2/8/bPKQ3R/2PN4/8 w KQkq - 0 1",
+    "solution": "1... Qa1+ 2. Kc4 Rb4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 321,
+    "fen": "8/8/1p2k3/2p2p1n/Pp1pn2P/1P1K4/2P5/4B3 w KQkq - 0 1",
+    "solution": "1... Nf4+ 2. Kc4 Nd6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 325,
+    "fen": "8/1p1r4/pB3kp1/Pr5p/2N5/5p2/2B2P1P/5K2 w KQkq - 0 1",
+    "solution": "1... Rb1+ 2. Bxb1 Rd1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 326,
+    "fen": "r5kb/bppbP2p/4n1p1/3QB3/8/1P4NP/2P3B1/1K1R3R w KQkq - 0 1",
+    "solution": "1... Qa1+ 2. Bxa1 Rxa1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 327,
+    "fen": "2q3k1/5p1p/3B2p1/1Pp5/3b2n1/5b2/1P5P/R2NBK2 w KQkq - 0 1",
+    "solution": "1... Nxh2+ 2. Bxh2 Qh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 331,
+    "fen": "r3k2N/pppn2pp/8/3Pp3/Q1Bn2bb/2P5/PP1P2PP/RNB3KR w KQkq - 0 1",
+    "solution": "1... Qe1+ 2. Bf1 Ne2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 332,
+    "fen": "8/pp4p1/4R3/b2p2k1/3P2Pn/bP1P1QKP/P4P2/2r5 w KQkq - 0 1",
+    "solution": "1... Rg1+ 2. Kh2 Nxf3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 333,
+    "fen": "5rk1/1p2bppp/8/2P1n3/1P2n3/6P1/qN1BpPNP/2B1R1K1 w KQkq - 0 1",
+    "solution": "1... Nf3+ 2. Kh1 Nxf2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 337,
+    "fen": "8/pp3pk1/3p4/2pP2p1/2P1K1Q1/2P2P2/P2b4/R7 w KQkq - 0 1",
+    "solution": "1... Qe2+ 2. Kf5 Qe5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 338,
+    "fen": "4r1k1/1b4rp/8/8/pbP2B2/1P2p3/P1B4P/R4K2 w KQkq - 0 1",
+    "solution": "1... e2+ 2. Kf2 Rg2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 339,
+    "fen": "r3r1k1/7p/2p2b2/p1Bp1Q1q/5Kp1/P1P3P1/4NP1P/2R1R3 w KQkq - 0 1",
+    "solution": "1... Re4+ 2. Qxe4 Qg5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 343,
+    "fen": "6rk/8/b2pRp2/2pP4/5P2/PP2nN2/5K1P/3R4 w KQkq - 0 1",
+    "solution": "1... Rg2+ 2. Kxe3 Re2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 344,
+    "fen": "8/1p3pk1/2p5/5p2/2P3n1/1P5P/6B1/4b1BK w KQkq - 0 1",
+    "solution": "1... Nf2+ 2. Kh2 Qe5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 345,
+    "fen": "2kr4/1p6/p1nR3B/6B1/P2p1ppP/3P1qN1/2P2P1P/5K2 w KQkq - 0 1",
+    "solution": "1... Qd1+ 2. Kg2 f3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 349,
+    "fen": "8/8/2RP4/p5k1/B1P5/3n3K/P7/4r1b1 w KQkq - 0 1",
+    "solution": "1... Nf4+ 2. Kg3 Re3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 350,
+    "fen": "2R1r3/6kp/p7/P7/1P3B1P/5qP1/4nn1K/R4Q2 w KQkq - 0 1",
+    "solution": "1... Ng4+ 2. Kh3 Nxf4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 351,
+    "fen": "5k2/1R6/2p2n2/8/P1P2pr1/1P3RNK/5PP1/4r3 w KQkq - 0 1",
+    "solution": "1... Rxg3+ 2. fxg3 Rh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 355,
+    "fen": "2r5/1Q3p1p/B2p1k1b/4pb2/3n3P/8/PP1b1PP1/1N2RK1R w KQkq - 0 1",
+    "solution": "1... Qxe1+ 2. Kxe1 Rc1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 356,
+    "fen": "6r1/5p2/1b1k1p2/3p4/7P/5N1Q/P4b1P/4R2K w KQkq - 0 1",
+    "solution": "1... Qxe1+ 2. Qf1 Qxf1+ 3. Ng1 Rxg1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 357,
+    "fen": "r1b2rk1/pp3ppp/4p3/8/1b2R3/3Q1B2/P1P2PPb/R1B2K2 w KQkq - 0 1",
+    "solution": "1... Qh1+ 2. Ke2 Qe1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 361,
+    "fen": "4r1k1/1pB3pp/2p2p2/P7/6b1/5nP1/1P2PPKP/1R1NbB2 w KQkq - 0 1",
+    "solution": "1... Qxf1+ 2. Kxf1 Bh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 362,
+    "fen": "6k1/pp3p1p/5bp1/2P2P2/1RR1P1K1/P2r4/7P/8 w KQkq - 0 1",
+    "solution": "1... h5+ 2. Kf4 g5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 363,
+    "fen": "8/2B2k2/5p2/3P1K1p/p1n2RrP/3R4/8/5r2 w KQkq - 0 1",
+    "solution": "1... Rgxf4+ 2. Bxf4 Nd6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 367,
+    "fen": "8/5p1k/3p2np/2bP1N1B/3b4/3Q3P/3R2PK/4r3 w KQkq - 0 1",
+    "solution": "1... Be5+ 2. g3 Qg1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 368,
+    "fen": "2r3k1/5p1p/6p1/pBbp4/P2p4/1P1R2P1/KNPR3P/7r w KQkq - 0 1",
+    "solution": "1... Qa3+ 2. Kxa3 Ra1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 369,
+    "fen": "6rk/5R2/R3p2p/5p2/5P1P/6BK/6P1/2r3b1 w KQkq - 0 1",
+    "solution": "1... Rxg3+ 2. Kxg3 Rc3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 373,
+    "fen": "7R/2p2k2/1b2p3/3nP1pR/4K3/1P4r1/3B4/8 w KQkq - 0 1",
+    "solution": "1... Nc3+ 2. Bxc3 Re3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 374,
+    "fen": "7r/2p5/1p1p4/p1nP2k1/2P4R/P1P2pPK/7P/5B2 w KQkq - 0 1",
+    "solution": "1... Ne4 2. Rxh8 Nf2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 375,
+    "fen": "6R1/6R1/1p6/p2n3P/P3nkp1/1P1K4/6r1/8 w KQkq - 0 1",
+    "solution": "1... Rd2+ 2. Kc4 Nd6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 379,
+    "fen": "r4r1k/p1b1pBb1/6pp/2nPP3/1p3P1B/3p2B1/PPP4P/2KR2R1 w KQkq - 0 1",
+    "solution": "1... Nb3+ 2. axb3 Qxc2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 380,
+    "fen": "2q5/p4pk1/P5pp/3Q1n2/3P4/R1N3P1/5PKP/4r3 w KQkq - 0 1",
+    "solution": "1... Nh4+ 2. gxh4 Qg4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 381,
+    "fen": "r5k1/5pbp/p1pp1bp1/1pn5/2P2P2/PP2r2P/1BQN4/1NKR3R w KQkq - 0 1",
+    "solution": "1... Nd3+ 2. Qxd3 Qxb2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 385,
+    "fen": "2r2r1k/pq4bp/8/1p2p1P1/1Pp1nP2/P1P1N3/2Q1N2B/1R3R1K w KQkq - 0 1",
+    "solution": "1... Nf2+ 2. Kg1 Nh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 386,
+    "fen": "6k1/pB3bpp/5p2/2p1nN1P/Pp2PKP1/3r4/1P3R2/8 w KQkq - 0 1",
+    "solution": "1... g5+ 2. hxg6 Nxg6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 387,
+    "fen": "Q7/5pkp/3P2p1/2b1p3/8/5PPP/3n2K1/1B2r3 w KQkq - 0 1",
+    "solution": "1... Rg1+ 2. Kh2 Nf1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 391,
+    "fen": "8/3nkp2/6pp/R2PP3/5PKP/2r5/8/8 w KQkq - 0 1",
+    "solution": "1... f5+ 2. exf6+ Nxf6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 392,
+    "fen": "r3r1k1/5p1p/p5pB/5N1R/2p2P2/3nB1P1/P3K1P1/b7 w KQkq - 0 1",
+    "solution": "1... Qe1+ 2. Kf3 Qd1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 393,
+    "fen": "1r3r1k/1ppbb1pp/3p1n2/p2Bp1Nn/2PP3N/6P1/PPQ2P1P/3RR1K1 w KQkq - 0 1",
+    "solution": "1. Qxh7+ Nxh7 2. Ng6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 397,
+    "fen": "5r1k/1b1pN2p/p1p2p1r/1pb3N1/6Q1/1P6/1PP3PP/4RR1K w KQkq - 0 1",
+    "solution": "1. Nf7+ Rxf7 2. Qg8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 398,
+    "fen": "r2k2r1/2R2R2/p6p/B5p1/b7/1p5P/1P1n1PP1/6K1 w KQkq - 0 1",
+    "solution": "1. Ra7+ Kc8 2. Rxa8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 399,
+    "fen": "rk1n1n1r/pp2R2p/2p2Rp1/2N5/1PP3B1/8/P5PP/6K1 w KQkq - 0 1",
+    "solution": "1. Rxb7+ Nxb7 2. Na6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 403,
+    "fen": "3b2r1/2p3pp/1pB1Qnk1/4p3/1P1p4/6P1/P2B1P1P/6K1 w KQkq - 0 1",
+    "solution": "1. Be4+ Kh5 2. Qh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 404,
+    "fen": "1r1b2n1/1p3r2/3p1kNB/2p1pP2/2P1P3/8/1P4B1/5RK1 w KQkq - 0 1",
+    "solution": "1. Qh4+ Kg7 2. Qh8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 405,
+    "fen": "8/3R4/k2p1p2/3BpP1p/KP2P3/2P1b1rP/8/8 w KQkq - 0 1",
+    "solution": "1. Rb7 Rxh3 2. b5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 409,
+    "fen": "4r1q1/1p4n1/4bNpk/1pP1PpN1/r4PP1/8/3B1BBK/8 w KQkq - 0 1",
+    "solution": "1. Nf7+ Bxf7 2. g5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 410,
+    "fen": "r3n1rk/b3NQ1p/p2pbP2/1p4p1/1P1pP1P1/3R4/P1P4P/3B2K1 w KQkq - 0 1",
+    "solution": "1. Qxh7+ Kxh7 2. Rh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 411,
+    "fen": "2r3r1/1p3k2/p1b1Rp1p/3N1P2/3b1NP1/7P/PPP3B1/7K w KQkq - 0 1",
+    "solution": "1. Re7+ Kf8 2. Ne6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 415,
+    "fen": "7B/p1p1b1B1/6r1/2p3kp/4Bp1b/7P/PPP2PP1/6K1 w KQkq - 0 1",
+    "solution": "1. Bh6+ Rxh6 2. Qe5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 416,
+    "fen": "2r3k1/2b3B1/1p3PQ1/3bp3/8/6P1/6P1/1B4K1 w KQkq - 0 1",
+    "solution": "1. f7+ Bxf7 2. Qh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 417,
+    "fen": "r1q1r2k/2p1bQpp/p2pn2N/1p6/3B4/2P5/PP4PP/3R1RK1 w KQkq - 0 1",
+    "solution": "1. Qg8+ Rxg8 2. Nf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 421,
+    "fen": "7R/3r1k1p/6pP/r2P2P1/5P2/4R3/p5K1/8 w KQkq - 0 1",
+    "solution": "1. Ree8 a1=Q 2. Rhf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 422,
+    "fen": "r2b1b1r/4kppp/p1Q1p3/8/1n1N4/5P2/PP3P1P/R1B1K2R w KQkq - 0 1",
+    "solution": "1. Bg5+ f6 2. Qxe6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 423,
+    "fen": "r3nr1k/1n2Nppp/3b4/pq1N2B1/1p2Q3/3R4/PPP3PP/1K5R w KQkq - 0 1",
+    "solution": "1. Qxh7+ Kxh7 2. Rh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 427,
+    "fen": "6Q1/r1pBk2p/1pPp4/p7/7b/5p2/NP2b3/K7 w KQkq - 0 1",
+    "solution": "1. Qg7+ Kd8 2. Qf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 428,
+    "fen": "4rk2/p3r1p1/1p1p2Q1/2p2P2/2B1PP2/2P2K1p/3b3P/6R1 w KQkq - 0 1",
+    "solution": "1. Qf6+ gxf6 2. Rg8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 429,
+    "fen": "6k1/5pp1/p1r4p/1p2B3/n4P2/2P3RP/4r1PK/1q1R4 w KQkq - 0 1",
+    "solution": "1. Rd8+ Kh7 2. Rxg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 433,
+    "fen": "2kr1b1r/1p3pp1/Bn5p/2pP1q2/Q3p3/2N5/PP3PPP/R4RK1 w KQkq - 0 1",
+    "solution": "1. Qc6+ Kb8 2. Qxb7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 434,
+    "fen": "5rk1/1q1n1pb1/2n1p2R/1NP1p1R1/1P6/8/6PP/2B2B1K w KQkq - 0 1",
+    "solution": "1. Rxg7+ Kxg7 2. Qg5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 435,
+    "fen": "2qk3r/2b1n2p/1pB2Rp1/r5B1/3P1p2/4B1P1/P3PP1P/6K1 w KQkq - 0 1",
+    "solution": "1. Rf8+ Rxf8 2. Bxe7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 439,
+    "fen": "r6k/pq1rNQpp/1npp1p2/4p3/4P3/2P4P/PP1B1PP1/R3R1K1 w KQkq - 0 1",
+    "solution": "1. Bh6 gxh6 2. Qxf6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 440,
+    "fen": "r2b2rk/1b1nNp1p/p2p1P1B/1p6/8/1P6/1PP2P1P/2KR2R1 w KQkq - 0 1",
+    "solution": "1. Qg7+ Rxg7 2. fxg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 441,
+    "fen": "8/p7/Pr4p1/1Pp4p/4KP1k/8/8/6R1 w KQkq - 0 1",
+    "solution": "1. Kf3 Rxb5 2. Rh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 445,
+    "fen": "8/8/p1p1pkpB/2p4p/2P4P/1P1q2P1/P5K1/8 w KQkq - 0 1",
+    "solution": "1. Qf8+ Ke5 2. Qf4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 446,
+    "fen": "5r2/1B2R2p/p4kp1/b7/6P1/4B2P/7K/r7 w KQkq - 0 1",
+    "solution": "1. g5+ Qxg5 2. Qe6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 447,
+    "fen": "r4r2/ppb5/2P2kpB/4bN2/3pP1p1/1B1P4/PP2KPP1/7R w KQkq - 0 1",
+    "solution": "1. Qh4+ g5 2. Qh6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 451,
+    "fen": "3n1r2/6R1/1p2p3/p2pPk2/P1pP4/2P2B2/2P2K2/8 w KQkq - 0 1",
+    "solution": "1. Ke3 b5 2. Bg4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 452,
+    "fen": "8/2r2p1r/3p4/5RP1/2p1P2P/2k1K1P1/8/1R6 w KQkq - 0 1",
+    "solution": "1. Rff1 d5 2. Rfc1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 453,
+    "fen": "1r2rbk1/1q4p1/p2p2p1/3bp1B1/1p2P2B/1P3R2/1PP2R1P/2K5 w KQkq - 0 1",
+    "solution": "1. Rh3 Bxe4 2. Qh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 457,
+    "fen": "r1b2k2/ppp2npQ/3p3p/4R3/5b2/8/PPB2PPP/6K1 w KQkq - 0 1",
+    "solution": "1. Qg8+ Kxg8 2. Re8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 458,
+    "fen": "4k3/p3n2R/1r3bp1/2p2p2/2B2P2/1P5P/P1K5/3R4 w KQkq - 0 1",
+    "solution": "1. Bf7+ Kf8 2. Rd8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 459,
+    "fen": "2QR4/2n1krpp/pp2p3/2b2P2/2P3P1/7P/5R2/6K1 w KQkq - 0 1",
+    "solution": "1. f6+ gxf6 2. Rd7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 463,
+    "fen": "2b4r/2rkb1pp/pB4q1/3BppB1/8/2P5/P1P2PPP/3R2K1 w KQkq - 0 1",
+    "solution": "1. Bc6+ Ke6 2. Qb3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 464,
+    "fen": "r2b3k/pp2rR1p/2pp1Np1/8/1PP5/2B3P1/P6P/7K w KQkq - 0 1",
+    "solution": "1. Ne8+ Kg8 2. Qg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 465,
+    "fen": "3rkb2/2bp1pp1/p3P3/5P2/PprB4/8/P5QP/4R1K1 w KQkq - 0 1",
+    "solution": "1. exf7+ Kxf7 2. Qd5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 469,
+    "fen": "2b2r1k/1pb3p1/p1n4p/4bpNQ/1P6/P5P1/BB3P1P/4R1K1 w KQkq - 0 1",
+    "solution": "1. Qg6 Bxb2 2. Qh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 470,
+    "fen": "4k3/1B3p2/pB2bPp1/1p2pn2/8/1Pr5/P1P2PP1/2K4R w KQkq - 0 1",
+    "solution": "1. Rh8+ Kd7 2. Rd8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 471,
+    "fen": "r2b2rk/6np/p1bp2q1/4ppN1/1B2P2B/3B1R2/PPP3PP/4R2K w KQkq - 0 1",
+    "solution": "1. Qxh7+ Qxh7 2. Nf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 475,
+    "fen": "b3k3/2R3pp/4Bb2/p1Np4/8/3P2P1/Pr2PP1P/6K1 w KQkq - 0 1",
+    "solution": "1. Bf7+ Kd8 2. Ne6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 476,
+    "fen": "6k1/2R5/3Bp2K/5b2/3b1P2/8/8/8 w KQkq - 0 1",
+    "solution": "1. Rc8+ Kf7 2. Rf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 477,
+    "fen": "2R5/r5k1/p2B4/4N1pp/3PB3/3P3P/6PK/4b3 w KQkq - 0 1",
+    "solution": "1. Bf8+ Kf6 2. Rc6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 481,
+    "fen": "r6k/1p3BR1/2p2nPB/p7/2P2p2/1P3b2/P7/6K1 w KQkq - 0 1",
+    "solution": "1. Rh7+ Nxh7 2. g7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 482,
+    "fen": "r2bkr2/p2n2pp/1pn1N3/3pP1b1/3B4/P1N5/1PP2BPP/R3Kb1R w KQkq - 0 1",
+    "solution": "1. Nxg7+ Ke7 2. Nxd5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 483,
+    "fen": "r3r3/p7/1p1n1B2/7R/4k3/PP1p1RP1/7P/3K4 w KQkq - 0 1",
+    "solution": "1. Rf4+ Ke3 2. Bd4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 487,
+    "fen": "8/p4R2/1pN1k3/2pp1pp1/3P4/b1N1P3/2PK4/8 w KQkq - 0 1",
+    "solution": "1. Nd8+ Kd6 2. Nb5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 488,
+    "fen": "r1b5/p7/7R/bkbQ1p2/3p4/2P5/P1P2PP1/4K3 w KQkq - 0 1",
+    "solution": "1. a4+ Kxa4 2. Qb3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 489,
+    "fen": "4k3/R7/5K2/3p4/2bN2P1/5P2/8/3r4 w KQkq - 0 1",
+    "solution": "1. Ne6 d4 2. Re7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 493,
+    "fen": "1b4k1/8/5p2/p2p1Pp1/2pPn1P1/2Pb1N1K/P7/2B1B3 w KQkq - 0 1",
+    "solution": "1... Bf1+ 2. Qxf1 Qg3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 494,
+    "fen": "8/1p5p/3k2p1/p2p1PR1/P2P3P/1PK2R2/1r2r3/8 w KQkq - 0 1",
+    "solution": "1... Red2 2. Rxg6+ hxg6 3. fxg6 Rbc2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 495,
+    "fen": "b4k2/5Np1/p3p3/2p3P1/2P2B2/3K1n1P/P1B5/4b3 w KQkq - 0 1",
+    "solution": "1... Be4+ 2. Qxe4 Qd2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 499,
+    "fen": "2q2k2/4Npbp/3B2p1/1N1P4/4P3/1P1nBP1P/4K1P1/r7 w KQkq - 0 1",
+    "solution": "1... Qc2+ 2. Bd2 Re1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 500,
+    "fen": "8/6pp/8/5pk1/1R6/PP4PK/3rq2P/7Q w KQkq - 0 1",
+    "solution": "1... Qg4+ 2. Rxg4+ fxg4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 501,
+    "fen": "8/3R3p/1p2B1pk/2P1b3/2K1R3/r6P/1r6/8 w KQkq - 0 1",
+    "solution": "1... Rc3+ 2. Kd5 Rxc5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 505,
+    "fen": "8/B7/3b4/8/4n2p/7k/8/7K w KQkq - 0 1",
+    "solution": "1... Bh2 2. Bg1 Ng3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 506,
+    "fen": "8/1p4p1/pB4kp/3b2b1/2PP4/6PK/5r1P/3R4 w KQkq - 0 1",
+    "solution": "1... Bg2+ 2. Kg4 h5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 507,
+    "fen": "8/R5p1/1N1pk2p/8/4pK1b/3bP2P/6P1/8 w KQkq - 0 1",
+    "solution": "1... g5+ 2. Kg4 Be2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 511,
+    "fen": "1r2r1k1/1b1q3p/pp1p1np1/2pP1nB1/P2b1P2/2PB4/1P1B2NP/3NRR1K w KQkq - 0 1",
+    "solution": "1... Ng3+ 2. hxg3 Qh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 512,
+    "fen": "r1b2rk1/1p3ppp/4p3/8/1b2R3/3Q1B2/P1P2PPb/R1B2K2 w KQkq - 0 1",
+    "solution": "1... Qh1+ 2. Ke2 Qe1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 513,
+    "fen": "6k1/6pp/Q1N5/2pP4/P3Pr1b/8/5bPP/5R1K w KQkq - 0 1",
+    "solution": "1... Qxh2+ 2. Kxh2 Rh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 517,
+    "fen": "1r2q2k/4N2p/3p1Pp1/2p1n1P1/2P5/p2P2KQ/P3R3/8 w KQkq - 0 1",
+    "solution": "1. Qxh7+ Kxh7 2. Rh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 518,
+    "fen": "1Bk4r/2P1p3/1P4p1/3Bp2p/p5b1/8/6PP/6K1 w KQkq - 0 1",
+    "solution": "1. Bc6 a3 2. b7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 519,
+    "fen": "8/1p4R1/1P1bNk2/p2P2Np/2q1p1p1/8/2r2PPP/3R2K1 w KQkq - 0 1",
+    "solution": "1. Nh7+ Kf5 2. Rg5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 523,
+    "fen": "rn2r1k1/2n3p1/2p3p1/p5P1/3pPN1B/b2P3B/1pP5/1K3R1R w KQkq - 0 1",
+    "solution": "1. Qh7+ Kxh7 2. Be6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 524,
+    "fen": "1b6/3r4/3rkpQ1/p1pRp1p1/PpP1P1P1/1P3PK1/3R4/8 w KQkq - 0 1",
+    "solution": "1. Rxe5+ Kxe5 2. Qf5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 525,
+    "fen": "5r2/4R3/p2p3p/1p1B1kn1/3B4/7P/P2r1PPK/8 w KQkq - 0 1",
+    "solution": "1. g4+ Kf4 2. Be3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 529,
+    "fen": "3r3r/pp5p/2bN1Pk1/4P1p1/2BR1n2/8/P6P/4R1K1 w KQkq - 0 1",
+    "solution": "1. Bf7+ Kh6 2. Nf5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 530,
+    "fen": "3br2k/3b2bp/p2P1R2/n1p3B1/2P1p3/2B5/P2NN1p1/6K1 w KQkq - 0 1",
+    "solution": "1. Rf8+ Rxf8 2. Qxg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 531,
+    "fen": "8/8/6R1/3N1p1p/7k/8/4r1P1/7K w KQkq - 0 1",
+    "solution": "1. g3+ Kh3 2. Nf4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 535,
+    "fen": "r1b2r1k/1pppbp1p/8/p1bR4/2P5/PP2PP2/2Q2P1P/4KBR1 w KQkq - 0 1",
+    "solution": "1. Qxh7+ Kxh7 2. Rh5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 536,
+    "fen": "r2bkrR1/2nb3Q/p3p3/3p4/1p1B1P2/2N5/PPP4P/2K5 w KQkq - 0 1",
+    "solution": "1. Qg6+ Ke7 2. Bc5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 537,
+    "fen": "2k4r/2p2p2/3p1bb1/2b3p1/Q1PpP1Pr/3P1P2/7N/RR3NK1 w KQkq - 0 1",
+    "solution": "1. Rb8+ Kxb8 2. Qa8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 541,
+    "fen": "5bk1/pb1q2p1/1p2pPQ1/2p1P3/2P1B1Pp/4B3/P6P/7K w KQkq - 0 1",
+    "solution": "1. f7+ Kh8 2. Qh5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 542,
+    "fen": "6k1/R7/3n2B1/2rPK3/6P1/P4R2/8/2b5 w KQkq - 0 1",
+    "solution": "1. Bh7+ Kh8 2. Rf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 543,
+    "fen": "1r5r/4R1pp/pp4kb/2p2Rb1/8/5PB1/1PP3PP/6K1 w KQkq - 0 1",
+    "solution": "1. Re6+ Kxf5 2. Qg4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 547,
+    "fen": "8/1p3Qb1/p5pk/P1p1p1p1/1P2P1P1/2P1N2n/5P1P/4bB1K w KQkq - 0 1",
+    "solution": "1. Nf5+ gxf5 2. Qh5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 548,
+    "fen": "8/4rp2/1rp4p/p2pP2P/P2P4/bN2K2k/1PR5/6R1 w KQkq - 0 1",
+    "solution": "1. Kf4 Rxb3 2. Rh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 549,
+    "fen": "r4r2/2Bnb1b1/kpP1p2p/p5p1/QP1Pp3/R4N1P/P4Pn1/2KR4 w KQkq - 0 1",
+    "solution": "1. Qxa5+ bxa5 2. Rxa5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 553,
+    "fen": "6B1/1R6/7k/2b3pp/5P1P/3P4/1p3r2/4K3 w KQkq - 0 1",
+    "solution": "1. hxg5+ Kg6 2. Bh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 554,
+    "fen": "r6k/1R3Qpp/p4b1N/3p4/P1pP4/5qP1/2P2P1P/6K1 w KQkq - 0 1",
+    "solution": "1. Qg8+ Rxg8 2. Nf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 555,
+    "fen": "3R4/pp1N1ppk/4n2p/8/6Q1/1P2b1PK/P2b3P/8 w KQkq - 0 1",
+    "solution": "1. Nf6+ gxf6 2. Qg8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 559,
+    "fen": "6B1/8/b2n3p/4Np1k/3P1Pp1/4P1P1/8/6K1 w KQkq - 0 1",
+    "solution": "1. Bh7 Be2 2. Bg6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 560,
+    "fen": "3rrbk1/1bbn1p2/p3pn2/1p4N1/2P4B/1P6/PB1R2PP/1B1R3K w KQkq - 0 1",
+    "solution": "1. Qh7+ Nxh7 2. Bxh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 561,
+    "fen": "r5r1/p1b2p2/2p4p/1p2PB1k/5P1P/1P6/P7/1K4RR w KQkq - 0 1",
+    "solution": "1. Rg5+ hxg5 2. hxg5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 565,
+    "fen": "3rk3/1bb3r1/p5Np/1p2pB2/nP2P3/5R1P/P1P2PP1/2KR4 w KQkq - 0 1",
+    "solution": "1. Bd7+ Rgxd7 2. Rf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 566,
+    "fen": "8/8/2k2p2/1p6/1P3p1b/1KPR1P2/2PR4/8 w KQkq - 0 1",
+    "solution": "1. Rd7 Qe1 2. R2d6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 567,
+    "fen": "rb3kr1/4ppb1/3N1n2/p2p2Np/1p2p2P/6B1/PPP1B1P1/2K2R2 w KQkq - 0 1",
+    "solution": "1. Nh7+ Nxh7 2. Rxf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 571,
+    "fen": "8/7k/8/2pBB2p/2Pp4/3q3P/6RK/8 w KQkq - 0 1",
+    "solution": "1. Bg8+ Kh6 2. Bf4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 572,
+    "fen": "k7/pR3ppp/5b2/1P6/8/8/r7/4K2B w KQkq - 0 1",
+    "solution": "1. Rb6+ Rg2 2. Bxg2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 573,
+    "fen": "5rk1/1b1nbNpp/2n1Pp2/3p4/1p1P1BN1/bP4PP/5P2/3QR1K1 w KQkq - 0 1",
+    "solution": "1. Ngh6+ gxh6 2. Qg4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 577,
+    "fen": "4Rbk1/p3Br1p/3p2pB/5q2/8/5PPP/4P1K1/8 w KQkq - 0 1",
+    "solution": "1. Rxf8+ Rxf8 2. Qg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 578,
+    "fen": "3b1r1k/1b5n/1p6/p2PR2Q/8/P5R1/1P3PP1/6K1 w KQkq - 0 1",
+    "solution": "1. Qxh7+ Kxh7 2. Rh5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 579,
+    "fen": "r3rbk1/6pp/1b2p3/1p1bP2P/p2N1RQB/1P4R1/1PP3P1/2K5 w KQkq - 0 1",
+    "solution": "1. Rxf8+ Rxf8 2. Qxg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 583,
+    "fen": "rn5r/1p1q1p1k/p3pPpp/8/2pPN3/2P2R2/PP1B2PP/R5K1 w KQkq - 0 1",
+    "solution": "1. Qxh6+ Kxh6 2. Rh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 584,
+    "fen": "r7/pp5k/2p2P2/6R1/4pPp1/1n4P1/1P5P/4K2R w KQkq - 0 1",
+    "solution": "1. h3 gxh3 2. Rxh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 585,
+    "fen": "r2bb2k/pp3p1p/3p1Np1/2pP2B1/2P3P1/3B3P/PP3P2/6K1 w KQkq - 0 1",
+    "solution": "1. Qh6 Qxf6 2. Qf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 589,
+    "fen": "3br2k/6rp/pn2B2R/1p2B3/1P1p1P2/2p3P1/P4P1P/4R1K1 w KQkq - 0 1",
+    "solution": "1. Rxh7+ Kxh7 2. Qh5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 590,
+    "fen": "r2b1k2/pp2pBb1/1n2Pr2/2p2p1Q/3p1P2/2N1P3/PP3P1P/R3K1R1 w KQkq - 0 1",
+    "solution": "1. Qh8+ Bxh8 2. Rg8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 591,
+    "fen": "4q3/pp5k/2p3pb/2Pb3p/8/2B2N1P/PB3PP1/6K1 w KQkq - 0 1",
+    "solution": "1. Ng5+ Bxg5 2. Qg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 595,
+    "fen": "q2b1n1k/5r1p/2p1pNpB/1pPpP1P1/rP1P1P2/PK6/R7/2B4R w KQkq - 0 1",
+    "solution": "1. Qxf8+ Rxf8 2. Rxh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 596,
+    "fen": "4rk2/1p2n1p1/p3R1n1/5p2/3B1P1p/P1P3P1/BPq4P/3R2K1 w KQkq - 0 1",
+    "solution": "1. Rf6+ gxf6 2. Qxf6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 597,
+    "fen": "3r4/p3p1b1/2p5/k1Np2p1/3p2n1/1R4P1/PP4P1/2K5 w KQkq - 0 1",
+    "solution": "1. Rb7 Bf6 2. b4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 601,
+    "fen": "6rk/1ppR4/2n4p/p2Q1p2/2P2b2/7P/P5K1/4R3 w KQkq - 0 1",
+    "solution": "1. Qxg8+ Kxg8 2. Re8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 602,
+    "fen": "6k1/6b1/8/p6Q/2Pb1pB1/1P6/P7/5K2 w KQkq - 0 1",
+    "solution": "1. Be6+ Kf8 2. Qf7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 603,
+    "fen": "3rkn1R/pp2bp2/8/b2N1B2/3P4/PQ6/1P3P2/1K6 w KQkq - 0 1",
+    "solution": "1. Qb5+ Qxb5 2. Nc7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 607,
+    "fen": "2r3r1/1p2bpk1/1bp1B1n1/p6Q/P2P1B1P/4PP2/1P3P2/6RK w KQkq - 0 1",
+    "solution": "1. Bh6+ Kh7 2. Bf8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 608,
+    "fen": "2rr4/1b1n1p1k/3Pq1p1/8/p2Bp1P1/1N2R3/1PP2R1P/6K1 w KQkq - 0 1",
+    "solution": "1. Rh3+ Kg8 2. Rh8",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 609,
+    "fen": "5r1k/1p1n1p1P/4p3/3pP2P/3P2Q1/2P5/q2r1R2/5RK1 w KQkq - 0 1",
+    "solution": "1. h6 Rxf2 2. Qg7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 613,
+    "fen": "5r2/R4B1k/1n5b/3Pp3/1b6/8/5P1P/5KR1 w KQkq - 0 1",
+    "solution": "1. Bg8+ Kh8 2. Rh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 614,
+    "fen": "5b2/4kB1p/rb2Pp2/2pQn3/2p1P3/8/1P3PKP/3R4 w KQkq - 0 1",
+    "solution": "1. Qd7+ Nxd7 2. Rxd7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 615,
+    "fen": "8/8/8/8/3K4/8/6Q1/3k4 w KQkq - 0 1",
+    "solution": "1. Kd3 Ke1 2. Qg1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 619,
+    "fen": "6k1/5p2/3b2pp/p2b3r/8/1PB1RN1P/5bP1/3R3K w KQkq - 0 1",
+    "solution": "1... Rxh3+ 2. gxh3 Qh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 620,
+    "fen": "7B/2k5/p5B1/2KpPpB1/3n1P2/8/1b6/8 w KQkq - 0 1",
+    "solution": "1... Ne6+ 2. Kxd5 Qa2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 621,
+    "fen": "rb4rk/1Q4pp/3b4/p2pn3/3B4/P6P/1PB2PP1/2R2RK1 w KQkq - 0 1",
+    "solution": "1... Nf3+ 2. gxf3 Qh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 625,
+    "fen": "8/2R1Bbbk/3p4/2p5/1p2n2K/8/1P3n2/8 w KQkq - 0 1",
+    "solution": "1... Be5 2. Bg5 Bg3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 626,
+    "fen": "r4rk1/1bb2ppp/p3p3/P1b5/4P3/2N2PnP/2PBB1PK/R2QR3 w KQkq - 0 1",
+    "solution": "1... Nf1+ 2. Kh1 Qh2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 627,
+    "fen": "1r4k1/1r3pbp/p2Bbnp1/2p1p3/4P1PP/n1P1BP2/PR6/K1NR1BN1 w KQkq - 0 1",
+    "solution": "1... Nc2+ 2. Rxc2 Rb1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 631,
+    "fen": "7k/5p1p/p2bp2r/P2b1pB1/1p1R2n1/6P1/1PP4P/R5K1 w KQkq - 0 1",
+    "solution": "1... Qxg3+ 2. hxg3 Rh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 632,
+    "fen": "6k1/ppB3p1/5p2/3p3p/1PbP4/5PP1/P4NKP/4r3 w KQkq - 0 1",
+    "solution": "1... Bf1+ 2. Kg1 Bh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 633,
+    "fen": "6rk/7p/6q1/PP2p3/5p2/4p1rP/1BP1Q1PK/6R1 w KQkq - 0 1",
+    "solution": "1... Rxh3+ 2. Kxh3 Qg3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 637,
+    "fen": "8/4k3/3p2pp/pBp1n1r1/P3Pr2/1PP5/4R1PK/3R4 w KQkq - 0 1",
+    "solution": "1... Nf3+ 2. gxf3 Rh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 638,
+    "fen": "r6r/pp4kq/2p1p3/2PpPpp1/1B2n3/4PbP1/PB3PB1/R1R3K1 w KQkq - 0 1",
+    "solution": "1... Qh1+ 2. Bxh1 Rxh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 639,
+    "fen": "2r3k1/5p1p/2Bp1npb/3Pp3/1P2P3/1QNn4/5bPP/R6K w KQkq - 0 1",
+    "solution": "1... Ne1 2. g3 Qf1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 643,
+    "fen": "r5k1/3npp1p/2b3p1/1pn5/2pRP3/2P1BPP1/2K4P/1N1R1B2 w KQkq - 0 1",
+    "solution": "1... Ra2+ 2. Kc1 Nb3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 644,
+    "fen": "8/1p3k1p/2pp4/3b1p2/1P2rP2/P5PP/1BRB3K/3q4 w KQkq - 0 1",
+    "solution": "1... Re2+ 2. Qxe2 Qh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 645,
+    "fen": "6r1/p4p1k/1p1p4/4pP1p/PP6/2R1Pn1K/1B5P/8 w KQkq - 0 1",
+    "solution": "1... Rg4 2. e4 Ng1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 649,
+    "fen": "5k2/6p1/8/p3pPp1/5n2/1P1P1P2/PPr2b1K/2R4R w KQkq - 0 1",
+    "solution": "1... Bg3+ 2. Kxg3 Rg2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 650,
+    "fen": "r6k/1p3p1p/4pNpP/3pP3/rpP5/8/1P1B1bP1/1K1R3R w KQkq - 0 1",
+    "solution": "1... b3 2. Qxf2 Ra1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 651,
+    "fen": "1b2rrk1/7p/1P1b2p1/p1pP2Pn/4p3/4Bp2/P1R4P/3R1BNK w KQkq - 0 1",
+    "solution": "1... Qxh2+ 2. Rxh2 Ng3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 655,
+    "fen": "6k1/p5p1/1n1P3p/5p2/b2P4/4KP2/1r4PP/1N2R3 w KQkq - 0 1",
+    "solution": "1... Nd5+ 2. Kd3 Bb5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 656,
+    "fen": "5k2/3n1pp1/1pp1B2p/2b4P/4KP2/2N4q/1P2Q2P/7R w KQkq - 0 1",
+    "solution": "1... Nf6+ 2. Ke5 Qxe6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 657,
+    "fen": "4r2k/1ppbbR1p/3p4/p2Pr3/2P5/1P1Bp1RP/1P3BP1/6K1 w KQkq - 0 1",
+    "solution": "1. Qf6+ Qxf6 2. Rxh7",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 661,
+    "fen": "1r6/k4p2/P3pP2/P2bP1p1/KB4p1/3B4/1b4P1/3nN2R w KQkq - 0 1",
+    "solution": "1... Nc3+ 2. Bxc3 Bb3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 662,
+    "fen": "8/B4p1k/2p2Ppp/P7/4Pn1P/3rNPb1/1P4P1/5RK1 w KQkq - 0 1",
+    "solution": "1... Ne2+ 2. Kh1 Qxh4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 663,
+    "fen": "1b4k1/5p2/4p2B/1P1r4/P3Q3/8/5PP1/6K1 w KQkq - 0 1",
+    "solution": "1... Rd1+ 2. Qe1 Rxe1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 667,
+    "fen": "7k/p5r1/1p5p/1P3p2/P1PN1P2/6nP/2R3BK/2r5 w KQkq - 0 1",
+    "solution": "1... Rh1+ 2. Bxh1 Nf1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 668,
+    "fen": "6K1/8/6k1/2b2n2/8/8/8/8 w KQkq - 0 1",
+    "solution": "1... Nh6+ 2. Kh8 Bd4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 669,
+    "fen": "6k1/5p2/6pp/2Bp2bn/P7/5n2/2N1r1PP/2R3RK w KQkq - 0 1",
+    "solution": "1... Ng3+ 2. hxg3 Qh5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 673,
+    "fen": "6rk/1p4b1/p4R1p/P7/2p1Q3/6r1/5R1K/8 w KQkq - 0 1",
+    "solution": "1... Rh3+ 2. Kxh3 Qg3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 674,
+    "fen": "6k1/4p2p/p1N3p1/1P3r2/N1pb4/8/PP4PP/2R2n1K w KQkq - 0 1",
+    "solution": "1... Ng3+ 2. hxg3 Rh5",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 675,
+    "fen": "6k1/8/1p1p4/3P1pB1/8/2P2PPp/4r2r/3R2K1 w KQkq - 0 1",
+    "solution": "1... Reg2+ 2. Kf1 Rh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 679,
+    "fen": "6k1/p4p2/1p4p1/1b1PN3/4P3/P5P1/r5r1/2B4K w KQkq - 0 1",
+    "solution": "1... Rh2+ 2. Kg1 Rag2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 680,
+    "fen": "8/5kp1/1B2p2p/2b5/P5p1/2P3P1/5P1K/1R1r4 w KQkq - 0 1",
+    "solution": "1... Qh5+ 2. Kg2 Qh1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 681,
+    "fen": "2r3k1/pb3pp1/5b2/2p5/3p2p1/1P4P1/P4K1P/1QRRBB1q w KQkq - 0 1",
+    "solution": "1... Qxh2+ 2. Bg2 Qxg2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 685,
+    "fen": "6k1/5p2/1B2p2p/6p1/2P3K1/6P1/7P/5q2 w KQkq - 0 1",
+    "solution": "1... Qf5+ 2. Kh5 Qh3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 686,
+    "fen": "4q1k1/ppR3pp/8/3p1p1P/1P1Prn2/PQ6/5B1P/6K1 w KQkq - 0 1",
+    "solution": "1... Re1+ 2. Bxe1 Qxe1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 687,
+    "fen": "1r1k4/3P2Bp/5p2/8/2b1p3/1pb1P3/3R1PPP/r2BK2R w KQkq - 0 1",
+    "solution": "1... Rxd1+ 2. Kxd1 Qa1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 691,
+    "fen": "3k4/1R6/1b1P4/1p6/6p1/5pPn/P5rP/5R1K w KQkq - 0 1",
+    "solution": "1... Rg1+ 2. Rxg1 Nf2",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 692,
+    "fen": "8/p7/1p5p/1P6/P2kp3/R2b2P1/1r5P/3KN3 w KQkq - 0 1",
+    "solution": "1... Rb1+ 2. Kd2 e3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 693,
+    "fen": "8/4b1p1/p3pkP1/1p3n1P/5K2/6r1/PP2p3/7Q w KQkq - 0 1",
+    "solution": "1... Bd6+ 2. Ke4 Re3",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 697,
+    "fen": "6k1/2R3p1/1p2bp2/7K/p7/P1B2P2/1P4r1/8 w KQkq - 0 1",
+    "solution": "1... Rh2+ 2. Kg6 Rh6",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 698,
+    "fen": "8/1Q4pk/p6p/2pr4/1p6/1P2RRb1/P6b/5KN1 w KQkq - 0 1",
+    "solution": "1... Rd1+ 2. Re1 Rxe1",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  },
+  {
+    "id": 699,
+    "fen": "Rr6/1p3k2/1N1p1n1p/1Pp5/2P1p2p/1NB1P3/5PKP/3q4 w KQkq - 0 1",
+    "solution": "1... h3+ 2. Kxh3 Qg4",
+    "difficulty": "mate_in_2",
+    "source": "Ramakrishnan - Mate in Two - All 4 Volumes",
+    "tags": [
+      "tactics",
+      "checkmate",
+      "puzzle"
+    ]
+  }
+]
