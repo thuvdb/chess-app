@@ -15,5 +15,6 @@ export default defineConfig({
       allowedHosts: [
       'chess-app-znmi.onrender.com',
       '.onrender.com'
+      ]
     }
   })
