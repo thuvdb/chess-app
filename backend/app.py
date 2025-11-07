@@ -12,15 +12,24 @@ from functools import wraps
 
 app = Flask(__name__)
 # Cấu hình CORS - CHO PHÉP FRONTEND RENDER
-CORS(app, origins= [ 
-    'http://localhost:3000',
-    'http://localhost:5173',
-    'https://chess-app-zmni.onrender.com',
-    'https://my-app.onrender.com'
-    ], 
-supports_credentials=True,
-allow_headers=['Content-Type', 'Authorization'],
-methods=['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'])  
+# CORS(app, origins= [ 
+#    'http://localhost:3000',
+#    'http://localhost:5173',
+#    'https://chess-app-zmni.onrender.com',
+#    'https://my-app.onrender.com'
+#    ], 
+# supports_credentials=True,
+# allow_headers=['Content-Type', 'Authorization'],
+# methods=['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'])  
+
+# Cấu hình CORS - CHO PHÉP TẤT CẢ (để test trước)
+CORS(app, resources={
+    r"/api/*": {
+        "origins": "*",
+        "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+        "allow_headers": ["Content-Type", "Authorization"]
+    }
+})
 
 DATABASE = 'data/chess_puzzles.db'
 
