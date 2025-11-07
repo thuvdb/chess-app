@@ -6,9 +6,14 @@ export default defineConfig({
   server: {
     host: '0.0.0.0', // Quan trọng để Render có thể truy cập
     port: process.env.PORT || 10000,
+    strictPort: true,
     },
     preview: {
       host: '0.0.0.0',
       port: process.env.PORT || 10000,
+      strictPort: true,
+      allowedHosts: [
+      'chess-app-znmi.onrender.com',
+      '.onrender.com'
     }
   })
