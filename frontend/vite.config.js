@@ -12,4 +12,10 @@ export default defineConfig({
       }
     }
   }
+  preview: {
+    host: '0.0.0.0', // Đảm bảo lắng nghe trên mọi interface
+    
+    strictPort: true,
+    allowedHosts: '*', // 👈 Thêm dòng này để cho phép truy cập từ tên miền Render
+  }
 })
