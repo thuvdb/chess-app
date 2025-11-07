@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",     
-    "preview": "vite preview"
+    "preview": "vite preview",
     "start": "serve -s dist -p $PORT"
   },
   "dependencies": {
@@ -14,7 +14,7 @@
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
     "react-chessboard": "^4.3.1",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
     "serve": "^14.2.0"
   },
   "devDependencies": {
