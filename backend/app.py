@@ -11,7 +11,16 @@ from datetime import datetime
 from functools import wraps
 
 app = Flask(__name__)
-CORS(app, origins=['https://chess-app-zmni.onrender.com','http://localhost:3000', 'http://localhost:5173', 'http://localhost:3002'])  # Cho phép frontend gọi API
+# Cấu hình CORS - CHO PHÉP FRONTEND RENDER
+CORS(app, origins= [ 
+    'http://localhost:3000',
+    'http://localhost:5173',
+    'https://chess-app-zmni.onrender.com',
+    'https://my-app.onrender.com'
+    ], 
+supports_credentials=True,
+allow_headers=['Content-Type', 'Authorization'],
+methods=['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'])  
 
 DATABASE = 'data/chess_puzzles.db'
 
