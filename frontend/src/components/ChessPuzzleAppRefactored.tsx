@@ -14,6 +14,7 @@ import { PuzzleAPI } from '../services/puzzleAPI';
 import { useTimer } from '../hooks/useTimer';
 import { useStats } from '../hooks/useStats';
 import { usePuzzle } from '../hooks/usePuzzle';
+import { useResponsiveChessboardSize } from '../hooks/useResponsiveChessboardSize';
 
 // Import components
 import { StatsPanel } from './StatsPanel';
@@ -24,6 +25,7 @@ const ChessPuzzleApp = () => {
   // Hooks
   const { timer, startTimer, stopTimer, resetTimer } = useTimer();
   const { stats, incrementSolved, incrementAttempts } = useStats();
+  const boardWidth = useResponsiveChessboardSize();
   const {
     game,
     setGame,
@@ -552,16 +554,19 @@ const ChessPuzzleApp = () => {
       width: '100vw', 
       minHeight: '100vh', 
       margin: 0, 
-      padding: 0,
+      padding: '8px',
       display: 'flex',
       justifyContent: 'center',
-      alignItems: 'flex-start'
+      alignItems: 'flex-start',
+      boxSizing: 'border-box',
+      overflow: 'hidden'
     }} className="bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
       <div style={{
         width: '100%', 
-        maxWidth: '1400px',
-        padding: '20px',
-        margin: '0 auto'
+        maxWidth: '1600px',
+        padding: '8px',
+        margin: '0 auto',
+        boxSizing: 'border-box'
       }}>
           {/* Header */}
           <div className="text-center mb-6">
@@ -573,11 +578,11 @@ const ChessPuzzleApp = () => {
             </p>
           </div>
 
-          {/* Main Layout - Change to 2 column layout for bigger chess board */}
-          <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
+          {/* Main Layout - Responsive grid for optimal space usage */}
+          <div className="grid grid-cols-1 lg:grid-cols-5 xl:grid-cols-6 gap-4">
           
           {/* Left Panel */}
-          <div className="lg:col-span-1 space-y-4">
+          <div className="lg:col-span-2 xl:col-span-2 space-y-4">
             <StatsPanel stats={stats} timer={timer} />
 
             {/* Mode Selector */}
@@ -736,23 +741,23 @@ const ChessPuzzleApp = () => {
           </div>
 
           {/* Center Panel - Chessboard and Action Buttons */}
-          <div className="lg:col-span-3">
+          <div className="lg:col-span-3 xl:col-span-4">
             <div style={{
               backgroundColor: 'rgba(255, 255, 255, 0.15)',
               backdropFilter: 'blur(16px)',
               borderRadius: '20px',
-              padding: '32px',
+              padding: '16px',
               border: '3px solid rgba(255, 255, 255, 0.3)',
               boxShadow: '0 12px 35px rgba(0, 0, 0, 0.4)'
             }}>
               
               {/* Message */}
               <div style={{
-                marginBottom: '24px',
-                padding: '20px',
-                borderRadius: '16px',
+                marginBottom: '16px',
+                padding: '12px',
+                borderRadius: '12px',
                 textAlign: 'center',
-                fontSize: '22px',
+                fontSize: '18px',
                 fontWeight: '700',
                 textShadow: '2px 2px 4px rgba(0,0,0,0.5)',
                 border: '2px solid rgba(255, 255, 255, 0.3)'
@@ -767,26 +772,30 @@ const ChessPuzzleApp = () => {
               {/* Chessboard and Action Buttons Layout */}
               <div style={{
                 display: 'flex',
-                gap: '32px',
+                gap: '16px',
                 alignItems: 'flex-start',
-                justifyContent: 'center'
+                justifyContent: 'center',
+                flexWrap: 'wrap'
               }}>
                 
                 {/* Chessboard Container */}
                 <div style={{
-                  borderRadius: '16px',
+                  borderRadius: '12px',
                   overflow: 'hidden',
-                  boxShadow: '0 12px 40px rgba(0, 0, 0, 0.6)',
+                  boxShadow: '0 8px 30px rgba(0, 0, 0, 0.6)',
                   display: 'flex',
                   justifyContent: 'center',
-                  alignItems: 'center'
+                  alignItems: 'center',
+                  minWidth: '320px',
+                  maxWidth: '600px',
+                  width: '100%'
                 }} className="">
                   <Chessboard
                     position={game.fen()}
                     onPieceDrop={onDrop}
                     onSquareClick={onSquareClick}
                     onSquareRightClick={onSquareRightClick}
-                    boardWidth={700}
+                    boardWidth={boardWidth}
                     boardOrientation="white"
                     customBoardStyle={{
                       borderRadius: '16px',
@@ -818,10 +827,12 @@ const ChessPuzzleApp = () => {
 
                 {/* Action Buttons Panel */}
                 <div style={{
-                  minWidth: '280px',
+                  minWidth: '260px',
+                  maxWidth: '280px',
                   display: 'flex',
                   flexDirection: 'column',
-                  justifyContent: 'center'
+                  justifyContent: 'center',
+                  flex: 'none'
                 }}>
                   <ActionButtons
                     onShowHint={showHint}

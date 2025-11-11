@@ -2,7 +2,13 @@
 import axios from 'axios';
 
 // const API_BASE_URL = 'http://localhost:5000/api';
+<<<<<<< HEAD
 const API_BASE_URL = 'https://chess-app-backend-cagt.onrender.com'; 
+=======
+// const API_BASE_URL = 'https://chess-app-backend-cagt.onrender.com/api'; 
+// Lấy API URL từ environment variable
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+>>>>>>> 56eaf7ed0c83aa43bbfd0f8f0e18faa448221496
 
 export const puzzleApi = {
   // Get random puzzle

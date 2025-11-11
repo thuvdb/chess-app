@@ -1,7 +1,12 @@
 import { PuzzlePosition } from '../types/chess';
 
 // export const API_BASE_URL = 'http://localhost:5000/api';
+<<<<<<< HEAD
 export const API_BASE_URL = 'https://chess-app-backend-cagt.onrender.com/api'; 
+=======
+// export const API_BASE_URL = 'https://chess-app-backend-cagt.onrender.com/api'; 
+export const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+>>>>>>> 56eaf7ed0c83aa43bbfd0f8f0e18faa448221496
 
 export class PuzzleAPI {
   // Get random puzzle
