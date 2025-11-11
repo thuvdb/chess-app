@@ -11,25 +11,11 @@ from datetime import datetime
 from functools import wraps
 
 app = Flask(__name__)
-# Cấu hình CORS - CHO PHÉP FRONTEND RENDER
-# CORS(app, origins= [ 
-#    'http://localhost:3000',
-#    'http://localhost:5173',
-#    'https://chess-app-zmni.onrender.com',
-#    'https://my-app.onrender.com'
-#    ], 
-# supports_credentials=True,
-# allow_headers=['Content-Type', 'Authorization'],
-# methods=['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'])  
-
-# Cấu hình CORS - CHO PHÉP TẤT CẢ (để test trước)
-CORS(app, resources={
-    r"/api/*": {
-        "origins": "*",
-        "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-        "allow_headers": ["Content-Type", "Authorization"]
-    }
-})
+# CORS(app, origins=['http://localhost:3000', 'http://localhost:5173', 'http://localhost:3002'])  
+CORS(app, origins=[
+    'https://chess-app-zmni.onrender.com', 
+    'http://localhost:5173', 
+    'http://localhost:3002']) # Cho phép frontend gọi API
 
 DATABASE = 'data/chess_puzzles.db'
 
@@ -561,6 +547,5 @@ if __name__ == '__main__':
     print("   GET  /api/leaderboard")
     print("   GET  /api/stats/global")
     print("\n")
-    port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port, debug=False)
     
+    app.run(debug=True, host='0.0.0.0', port=5000)
